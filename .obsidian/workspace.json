@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "2e75607e0f1e1ff2",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d84ae104ea44d5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63ab5b8b0b6d449a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Electron Microscope.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Electron Microscope"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a82cfdbe34032b20",
+    "type": "split",
+    "children": [
+      {
+        "id": "698d26c71479a396",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd6f7738f6d6a126",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "39dfa939c551e309",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "47e15b1890258b8a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 268
+  },
+  "right": {
+    "id": "72712dd8df6e169c",
+    "type": "split",
+    "children": [
+      {
+        "id": "54abc47d6f137855",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "214e720c64c7e50c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "0f5c08f815152c90",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "33869576dcb46300",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c5088edf20ef086b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4047dbdfb05676d2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Spring of '26/BIO102/Untitled.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-reset-font-size:Reset Font Size": false
+    }
+  },
+  "active": "fd6f7738f6d6a126",
+  "lastOpenFiles": [
+    "Other Subjects/Biology/Cyclin-CDK Control.md",
+    "Electron Microscope.md",
+    "Nuclear Magnetic Resonance Spectroscopy.md",
+    "X-Ray Crystallography.md",
+    "Mass Spectrometry.md",
+    "Proteomics.md",
+    "Problems.md",
+    "Other Subjects/Environmental Sciences/Untitled.md",
+    "Other Subjects/Environmental Sciences",
+    "random.md",
+    "Other Subjects/Biology/Nucleosome.md",
+    "Physics and Mathematics/Delta Function Potential.md",
+    "Other Subjects/Biology/Peroxisome.md",
+    "Other Subjects/Biology/Glyoxysome.md",
+    "Other Subjects/Biology/Leaf Peroxisome.md",
+    "Other Subjects/Biology/Peroxisome Formation.md",
+    "Other Subjects/Biology/Calvin Cycle.md",
+    "Other Subjects/Biology/Cell Cycle.md",
+    "Other Subjects/Biology/Chloroplast.md",
+    "Other Subjects/Biology/Photorespiration.md",
+    "Other Subjects/Biology/Centrosome.md",
+    "Other Subjects/Biology/Antimitotic Drugs.md",
+    "Other Subjects/Biology/Regulation of Motor Protien.md",
+    "Other Subjects/Biology/Microfilaments.md",
+    "Other Subjects/Biology/Muscle Contraction.md",
+    "Other Subjects/Biology/Intermediate Filaments.md",
+    "Other Subjects/Biology/Cancer.md",
+    "Images/Pasted image 20260402185250.png",
+    "Images/Pasted image 20260401171953.png",
+    "Images/Pasted image 20260401150613.png",
+    "Images/Pasted image 20260401145408.png",
+    "Images/Pasted image 20260331194910.png",
+    "Images/Pasted image 20260331194531.png",
+    "Images/Pasted image 20260330224647.png",
+    "Images/Pasted image 20260330214855.png",
+    "Images/Pasted image 20260330201327.png",
+    "Images/Pasted image 20260330191308.png",
+    "Programming",
+    "Images/Ink/Drawing/~syncthing~2026.2.18 - 22.53pm.drawing.tmp",
+    "Images/Ink/Drawing/2026.2.18 - 22.53pm.drawing",
+    "Physics and Mathematics/~syncthing~Young's Double Slit Experiment.md.tmp",
+    "Untitled.canvas",
+    "Templates",
+    "Other Subjects/Environmental Science",
+    "Other Subjects/C Programming",
+    "Other Subjects/Chemistry",
+    "Other Subjects/Biology",
+    "Spring of '26/Untitled.canvas"
+  ]
+}

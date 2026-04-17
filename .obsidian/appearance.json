@@ -1,0 +1,16 @@
+{
+  "accentColor": "#d65151",
+  "cssTheme": "Primary",
+  "theme": "moonstone",
+  "baseFontSize": 25,
+  "interfaceFontFamily": "CMU Serif",
+  "textFontFamily": "CMU Serif",
+  "enabledCssSnippets": [
+    "reduce-italics",
+    "mermaid",
+    "centerimg"
+  ],
+  "nativeMenus": false,
+  "monospaceFontFamily": "CMU Typewriter Text",
+  "baseFontSizeAction": true
+}

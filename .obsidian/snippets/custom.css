@@ -1,0 +1,5 @@
+.math-block > mjx-container[jax="CHTML"] {
+  font-size: 100% !important;
+  line height: 1.5 !important;
+  margin-block: 0 !important;
+}   

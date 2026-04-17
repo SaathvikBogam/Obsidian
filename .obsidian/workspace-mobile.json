@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "bf398e00b534edb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "30c5f6397f52958c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2acb520d0b23cc7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics and Mathematics/Young's Double Slit Experiment.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Young's Double Slit Experiment"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0569d17f49a350f0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0d79c70d60e07d94",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "69405ff51d4692e7",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "d5580d42e4e1beb6",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "c1a50335a834d424",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "2cbc7ac20f4c6d09",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "e80f78aaac2fb976",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "940759f08c23ea5e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Physics and Mathematics/Young's Double Slit Experiment.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "71e0cf7722dd2825",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Welcome.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "04948cdebab47ee0",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Welcome.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2acb520d0b23cc7f",
+  "lastOpenFiles": [
+    "Images/Ink/Drawing/2026.2.18 - 22.53pm.drawing",
+    "Other Subjects/Biology/Cell Wall.md",
+    "Other Subjects/Biology/Plasma Membrane.md",
+    "Untitled.md",
+    "Images/Ink/Writing/2026.2.17 - 9.04am.writing",
+    "Images/Ink/Writing",
+    "Images/Ink/Drawing/2026.2.17 - 9.02am.drawing",
+    "Images/Ink/Drawing",
+    "Images/Ink"
+  ]
+}

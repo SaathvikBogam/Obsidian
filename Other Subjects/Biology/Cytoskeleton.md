@@ -1,0 +1,17 @@
+The cytoskeleton is a bundle of filamentous structures that provide structure to the cell. Its functions are:
+- It gives the cell a shape.
+- Gives the cell movement, since the microfilaments and microtubules can disassemble and reassemble, cilia and flagella provide movement.
+- Organizes the cell and aids in the movement of organelles, like when microfilaments pull the engulfed particle into the cell during endocytosis.
+- It helps move chromosomes during cell division by organizing mitotic spindle to segregate chromosomes during mitosis/meiosis, while actin filaments form the contractile that pinches animal cells apart during cytokinesis.
+There are three types of cytoskeleton: 
+
+| Property         | Microtubules                                                                                                               | Microfilaments                                                                                                                                                  | Intermediate filaments                                                                              |
+| ---------------- | :------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| Structure        | Hollow tubes; wall consists of 13 colums of tubulin molecules                                                              | Two intertwined strands of actin                                                                                                                                | Fibrous proteins supercoiled into thicker cables                                                    |
+| Diameter         | 25nm with 15nm lumen                                                                                                       | 7nm                                                                                                                                                             | 8-12nm                                                                                              |
+| Protein Subunits | $\alpha$-tubulin and $\beta$-tubulin heterodimer                                                                           | Actin                                                                                                                                                           | One of several proteins in keratin family                                                           |
+| Main functions   | Cell Shape(Compression Resistance), Cell Motility(cilia/flagella), Chromosome movement during division, organelle movement | Cell Shape(Tension bearing) and changes in it, Muscle contraction, Cytoplasmic streaming, cell motility(pseudopodia), cell division (cleavage furrow formation) | Cell shape(tension bearing), anchorage off nucleus and some organelles, formation of nuclear lamina |
+
+
+Links: [[Eukaryotes]]
+Date created: Wed/01/Apr/2026

@@ -1,0 +1,12 @@
+{
+  "promptDelete": false,
+  "attachmentFolderPath": "Images",
+  "propertiesInDocument": "hidden",
+  "alwaysUpdateLinks": true,
+  "spellcheck": false,
+  "useTab": true,
+  "userIgnoreFilters": [
+    "Templates/",
+    "Images/"
+  ]
+}

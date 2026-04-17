@@ -1,0 +1,4 @@
+/* Reduce slope of italics in both edit and reading mode */
+.cm-em, em {
+    font-style: oblique 20deg !important; /* Adjust 15deg to your preference (default is usually 20-30deg) */
+}

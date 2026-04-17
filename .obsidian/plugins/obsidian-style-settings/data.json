@@ -1,0 +1,21 @@
+{
+  "pln@@color-red": "#BF616A",
+  "pln@@font-ui-smaller": 13,
+  "pln@@font-ui-small": 13,
+  "pln@@font-ui-medium": 15,
+  "pln@@font-ui-large": 17,
+  "pln@@pln-folder-icons": false,
+  "pln@@pln-hi-tr": true,
+  "pln@@pln-view-invert": false,
+  "pln@@pln-pretty-pinned": false,
+  "pln@@pln-hdcl": true,
+  "pln@@pln-hdcl-1": "#BF616A",
+  "pln@@pln-hdcl-2": "#D08770",
+  "pln@@pln-hdcl-3": "#EBCB8B",
+  "pln@@pln-hdcl-4": "#A3BE8C",
+  "pln@@pln-hdcl-5": "#8FBCBB",
+  "pln@@pln-hdcl-6": "#88C0D0",
+  "simply-colorful-theme@@h1-color@@light": "#FFFFFF",
+  "simply-colorful-theme@@h1-color@@dark": "#FFFFFF",
+  "pln@@pln-vision": false
+}

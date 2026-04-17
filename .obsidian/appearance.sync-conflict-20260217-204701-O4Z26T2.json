@@ -1,0 +1,11 @@
+{
+  "accentColor": "#c63939",
+  "cssTheme": "PLN",
+  "theme": "obsidian",
+  "baseFontSize": 16,
+  "interfaceFontFamily": "AtkinsonHyperlegible-Regular(zFont)",
+  "textFontFamily": "AtkinsonHyperlegible-Regular(zFont)",
+  "enabledCssSnippets": [
+    "reduce-italics"
+  ]
+}

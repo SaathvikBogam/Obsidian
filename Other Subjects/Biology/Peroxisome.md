@@ -1,0 +1,4 @@
+The peroxisome provides a site for oxidative reactions and houses enzymes like *catalase* and **uric oxidase** (to break down uric acid, which crytallizes in joints and tissues, causing gout and kidney stones) at high concentrations, and are visible on an electron microscope. They are surrounded by a singular membrane, do not contain any DNA or ribosomes and they import proteins from the cytosol. They are also involved in lipid biosynthesis, like cholesterol and dolichol in animal cells. In the liver, they are also involved in the synthesis of bile acids are derived from cholestorol. They also contain enzymes rquired for plasmogen synthesis.
+
+Links: [[Eukaryotes]]
+Date created: Mon/30/Mar/2026
