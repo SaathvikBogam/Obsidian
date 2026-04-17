@@ -11,10 +11,14 @@
             "id": "63ab5b8b0b6d449a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Physics and Mathematics/Free Quantum Particle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Free Quantum Particle"
             }
           }
         ]
