@@ -22,21 +22,20 @@
             }
           },
           {
-            "id": "766c5ceb59b54e9f",
+            "id": "f48b70b518fcbcb5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cheese!.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cheese!"
+              "title": "Untitled"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,9 +167,19 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "4b6e4fa94629b677",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,8 +194,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "766c5ceb59b54e9f",
+  "active": "2acb520d0b23cc7f",
   "lastOpenFiles": [
+    "Untitled.md",
     "Physics and Mathematics/Delta Function Potential.md",
     "Cheese!.md",
     "Physics and Mathematics/Young's Double Slit Experiment.md",
