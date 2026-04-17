@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electron Microscope.md",
+                "file": "Other Subjects/Biology/Electron Microscope.md",
                 "mode": "preview",
                 "source": false
               },
@@ -179,18 +179,19 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-reset-font-size:Reset Font Size": false
+      "obsidian-reset-font-size:Reset Font Size": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "fd6f7738f6d6a126",
   "lastOpenFiles": [
-    "Other Subjects/Biology/Cyclin-CDK Control.md",
-    "Electron Microscope.md",
-    "Nuclear Magnetic Resonance Spectroscopy.md",
-    "X-Ray Crystallography.md",
-    "Mass Spectrometry.md",
-    "Proteomics.md",
     "Problems.md",
+    "Other Subjects/Biology/Electron Microscope.md",
+    "Other Subjects/Biology/Cyclin-CDK Control.md",
+    "Other Subjects/Biology/Nuclear Magnetic Resonance Spectroscopy.md",
+    "Other Subjects/Biology/X-Ray Crystallography.md",
+    "Other Subjects/Biology/Mass Spectrometry.md",
+    "Other Subjects/Biology/Proteomics.md",
     "Other Subjects/Environmental Sciences/Untitled.md",
     "Other Subjects/Environmental Sciences",
     "random.md",
