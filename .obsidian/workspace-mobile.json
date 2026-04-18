@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
+                "file": "Problems.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Problems"
             }
           }
         ]
@@ -182,9 +182,10 @@
   },
   "active": "2acb520d0b23cc7f",
   "lastOpenFiles": [
-    "/Untitled.md",
+    "/Problems.md",
     "Physics and Mathematics/Delta Function Potential.md",
     "Untitled.md",
+    "/Untitled.md",
     "Cheese!.md",
     "Physics and Mathematics/Young's Double Slit Experiment.md",
     "Images/Ink/Drawing/2026.2.18 - 22.53pm.drawing",
