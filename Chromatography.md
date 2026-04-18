@@ -13,4 +13,10 @@ TLC uses silica gel or alumina as stationary phase. It seperates and identifies 
 ##### High Performance Liquid Chromatography
 HPLC is used to seperate, identify and quantify components by passing a liquid sample under high pressure through a colum packed with a stationary phase. Widely used in pharmaceutical, environmental and chemical industries for high resolution seperation.
 ##### Ion Exchange Chromatography
-Used to seperate molecules 
+Used to seperate molecules based on their net charge. Stationary phase consists of charged resins that attract oppositely charged molecules in the sample. Cation exchange uses negatively charged resin and anion exchange uses positively charged resins.
+##### Affinity Chromatography
+Affinity Chromatography uses interactions like anitbody and antigen or enzyme and substrate binding to isolate target molecules. A ligand is attached to stationary phase that binds the target molecule. Used for isolating proteins, enzymes, antibodies, receptors and hormones.
+##### Adsorption Chromatography
+Adsorption Chromatography seperates compunds based on how strongly they are adsorbed to the stationary phase. Components with weaker adsorption move faster in stationary phase.
+##### Size-exclusion Chromatography
+SEC seperates compounds
