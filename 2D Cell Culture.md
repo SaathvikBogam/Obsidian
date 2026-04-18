@@ -6,3 +6,4 @@ These are cells that have been genetically altered to divide indefinitely. They 
 ##### Cancer Cell Lines
 Derived from tumors, are effectively immortal. Used in understanding oncogenic signaling, metastasis and drug resistance. Ex: A549 (Lung cancer), HCT116 (Colorectal cancer), PC-3 (Prostate cancer), HeLa (Cervical cancer), MCF-7 (Breast cancer).
 ##### Immune Cell Lines
+Immune cells are cultured. Their uses include evaluating T cell responses and antibody cytotoxicity, drug development by screening new compounds for efficacy and toxicity and studyong signaling pathways and cytokine production. Ex: Jurkat (Human T cells), Raji (Human B cells), K-562-GFP (NK cells), THP-1 (Human Monocytes), RAW
