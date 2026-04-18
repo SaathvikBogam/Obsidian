@@ -6,4 +6,8 @@ These are cells that have been genetically altered to divide indefinitely. They 
 ##### Cancer Cell Lines
 Derived from tumors, are effectively immortal. Used in understanding oncogenic signaling, metastasis and drug resistance. Ex: A549 (Lung cancer), HCT116 (Colorectal cancer), PC-3 (Prostate cancer), HeLa (Cervical cancer), MCF-7 (Breast cancer).
 ##### Immune Cell Lines
-Immune cells are cultured. Their uses include evaluating T cell responses and antibody cytotoxicity, drug development by screening new compounds for efficacy and toxicity and studyong signaling pathways and cytokine production. Ex: Jurkat (Human T cells), Raji (Human B cells), K-562-GFP (NK cells), THP-1 (Human Monocytes), RAW
+Immune cells are cultured. Their uses include evaluating T cell responses and antibody cytotoxicity, drug development by screening new compounds for efficacy and toxicity and studyong signaling pathways and cytokine production. Ex: Jurkat (Human T cells), Raji (Human B cells), K-562-GFP (NK cells), THP-1 (Human Monocytes), RAW264.7 (Mouse macrophages)
+##### Stem Cell Lines
+Embryonic stem cells (ESCs) are pluripotent, can differentiate into any type. Induced pluripotent stem cells (iPSCs) are reprogammed somatic cells for patient specific modeling. It is used in developmental biology, regenerative medicine and differentiation studies.
+##### Reporter Cell Lines
+Engineered to express fluorescent or luminescent markers. Used for live cell imaging, real time monitoring of signaling pathways and gene expression dynamics.
