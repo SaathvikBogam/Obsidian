@@ -1,0 +1,7 @@
+{
+  "font_folder": ".obsidian/fonts/",
+  "font": "cmunrm.ttf",
+  "force_mode": true,
+  "custom_css_mode": false,
+  "custom_css": "/* Example CSS for your font: cmunrm */\n\n/* Apply to all text */\n:root * {\n\t--font-default: 'cmunrm';\n\t--default-font: 'cmunrm';\n\t--font-family-editor: 'cmunrm';\n\t--font-interface-override: 'cmunrm';\n\t--font-text-override: 'cmunrm';\n}\n\n/* Example: Apply to custom CSS class */\n.custom-font * {\n\tfont-family: 'cmunrm' !important;\n}\n\n/* Example: Apply to specific elements only */\n.custom-font h1, .custom-font h2, .custom-font h3 {\n\tfont-family: 'cmunrm' !important;\n}"
+}
