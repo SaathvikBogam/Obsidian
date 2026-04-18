@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Caenorhabditis elegans.md",
+                "file": "Arabidopsis thaliana.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Caenorhabditis elegans"
+              "title": "Arabidopsis thaliana"
             }
           }
         ]
@@ -185,8 +185,10 @@
   },
   "active": "63ab5b8b0b6d449a",
   "lastOpenFiles": [
-    "Saccharomyces cerevisiae.md",
+    "Drosophila melanogaster.md",
+    "Arabidopsis thaliana.md",
     "Caenorhabditis elegans.md",
+    "Saccharomyces cerevisiae.md",
     "Escherichia coli.md",
     "Biological Models.md",
     "Other Subjects/Biology/Ribosome.md",
@@ -210,8 +212,6 @@
     "Other Subjects/Biology/Glyoxysome.md",
     "Other Subjects/Biology/Leaf Peroxisome.md",
     "Other Subjects/Biology/Peroxisome Formation.md",
-    "Other Subjects/Biology/Calvin Cycle.md",
-    "Other Subjects/Biology/Cell Cycle.md",
     "Images/Pasted image 20260402185250.png",
     "Images/Pasted image 20260401171953.png",
     "Images/Pasted image 20260401150613.png",

@@ -1,0 +1,1 @@
+A. thaliana has great importance in the study of plant biology, as it is easy to cultivate
