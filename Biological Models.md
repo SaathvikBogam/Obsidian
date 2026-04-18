@@ -1,0 +1,1 @@
+The fundamental properties have been conserved during evolution; the basic principles from experiments performed with one type of cell are generally applicable to other cells.  These experimental biological models allow researchers to understand the nature of cells in a controlled environment. These model help in studying cellular processes, diseases and potential therapies.

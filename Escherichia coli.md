@@ -1,0 +1,1 @@
+E. coli is a prokaryote used to study biochemistry and molecular biology. Its simplicity and ease of propogation make it useful. The small genome size allows for 
