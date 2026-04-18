@@ -11,4 +11,11 @@ Centrifugation uses centrifugal force to seperate particles from a solution base
 - Density gradient centrifugation seperates particles by density in an analte mixture.
 - The substances are concentrated in a solution of caesium salts or sucrose. -
 - It involves particle fractionation based on buoyant density.
-- Molecules settle until they reeach a medium of constant density.
+- Molecules settle until they reach a medium of same density. As the sample rotates, denser one settle down.
+- They suspend at densities that match the medium, allwing seperation into distinct layers for recovery.
+- It is used to purify large volumes of biomolecules and different viruses. It can also be used to determine densities.
+- This method was first used by the famous experiment which proved DNA is semi conservative using different isotopes of Nitrogen.
+#### Ultracentrifugation
+- It is a high speed seperation technique using forces upto 1 million times g and speeds exceeding 150k rpm to isolate small particles like proteins, viruses and organelles.
+- This method seperates based on size, shape and density
+- It is used in biomedical research to isolate 
