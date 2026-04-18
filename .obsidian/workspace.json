@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mus musculus.md",
+                "file": "Other Subjects/Biology/Mus musculus.md",
                 "mode": "source",
                 "source": false
               },
@@ -183,18 +183,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "63ab5b8b0b6d449a",
+  "active": "fd6f7738f6d6a126",
   "lastOpenFiles": [
-    "Gallus gallus.md",
-    "Mus musculus.md",
-    "Xenopus laevis.md",
-    "Danio rerio.md",
-    "Arabidopsis thaliana.md",
-    "Drosophila melanogaster.md",
-    "Caenorhabditis elegans.md",
-    "Saccharomyces cerevisiae.md",
-    "Escherichia coli.md",
-    "Biological Models.md",
+    "Other Subjects/Biology/Danio rerio.md",
+    "Other Subjects/Biology/Mus musculus.md",
+    "Other Subjects/Biology/Gallus gallus.md",
+    "Other Subjects/Biology/Xenopus laevis.md",
+    "Other Subjects/Biology/Arabidopsis thaliana.md",
+    "Other Subjects/Biology/Drosophila melanogaster.md",
+    "Other Subjects/Biology/Caenorhabditis elegans.md",
+    "Other Subjects/Biology/Saccharomyces cerevisiae.md",
+    "Other Subjects/Biology/Escherichia coli.md",
+    "Other Subjects/Biology/Biological Models.md",
     "Other Subjects/Biology/Ribosome.md",
     "Problems.md",
     "conflict-files-obsidian-git.md",
