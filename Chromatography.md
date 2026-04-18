@@ -19,4 +19,17 @@ Affinity Chromatography uses interactions like anitbody and antigen or enzyme an
 ##### Adsorption Chromatography
 Adsorption Chromatography seperates compunds based on how strongly they are adsorbed to the stationary phase. Components with weaker adsorption move faster in stationary phase.
 ##### Size-exclusion Chromatography
-SEC seperates compounds
+SEC seperates compounds by size, often used for proteisn. Also called gel filtration, it uses porous stationary phases. Smaller molecules enter pores and moves slowly, while larger ones pass faster and elute first.
+##### Gas Chromatography
+GC seperates volatile compounds. The mobile phase is a gas, typically $\text{He, H}_{2}$ or $\text{N}_{2}$. It can be used to detect pollutants in the air or analyzing perfumes.
+
+#### Applications of Chromatography
+- Environmental testing
+- Forensic science
+- Bioprocessing and product purification
+- Food industry to check safety and quality
+- Chemical industry for assesing purity
+- Pharma industry for drug development and quality control
+
+Links: [[Biology Techniques]]
+Date created: Sun/19/Apr/2026
