@@ -9,4 +9,7 @@ Electrophoresis is used to seperate and examine molecules according to their siz
 - SDS PAGE is a technique used to seperate proteins based on molecular weight.
 - It requires the use of a polyacrylamide gel matrix and the detergent sodium dodecyl sulphate to denature and linearize proteins, which is an anionic surfactant that breaks down protein's non-covalent links.
 - Its applications include seperation of proteins by providing a visual of protein composition and helping identifying specific proteins in complex mixtures.
-- SDS PAGE can estimate a protein's molecular weight and also check a protein's pu
+- SDS PAGE can estimate a protein's molecular weight and also check a protein's purity. It can also quantify proteins based on protein band intensity on the gel.
+
+Links: [[Biology Techniques]]
+Date created: Sun/19/Apr/2026
