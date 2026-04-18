@@ -11,3 +11,60 @@ Immune cells are cultured. Their uses include evaluating T cell responses and an
 Embryonic stem cells (ESCs) are pluripotent, can differentiate into any type. Induced pluripotent stem cells (iPSCs) are reprogammed somatic cells for patient specific modeling. It is used in developmental biology, regenerative medicine and differentiation studies.
 ##### Reporter Cell Lines
 Engineered to express fluorescent or luminescent markers. Used for live cell imaging, real time monitoring of signaling pathways and gene expression dynamics.
+```mermaid
+graph TD
+    %% Color Styling 
+    %% process = blue arrows/boxes, cells = red flasks, dark = experiment circles, bank = icy blue, start = grey dotted
+    classDef process fill:#629dd1,stroke:#4a7aa6,stroke-width:2px,color:#fff,rx:4,ry:4;
+    classDef cells fill:#e6b8b7,stroke:#c0504d,stroke-width:2px,color:#000,rx:15,ry:15;
+    classDef dark fill:#17365d,stroke:#0f243e,stroke-width:2px,color:#fff;
+    classDef bank fill:#dce6f2,stroke:#b8cce4,stroke-width:2px,color:#000,rx:5,ry:5;
+    classDef start fill:#fdfdfd,stroke:#999,stroke-width:2px,stroke-dasharray: 5 5;
+
+    %% Initial Sources
+    Tissue(START: Tissue):::start
+    BankStart[❄️ START: Cell stock / bank]:::bank
+
+    %% Processing & Thawing
+    Iso[Cell isolation]:::process
+    Thaw[Thawing]:::process
+
+    %% First Cell Stage
+    Cells1(🧪 Cells):::cells
+
+    %% Culture Loop
+    Culture1[Culture]:::process
+    Passage[Passage]:::process
+    Culture2[Culture*]:::process
+
+    %% Second Cell Stage
+    Cells2(🧪 Cells):::cells
+
+    %% Outputs & Freezing
+    Freeze[Freeze]:::process
+    Exp((Experiment)):::dark
+    Assay((Assay)):::dark
+    BankEnd[❄️ Cell stock / bank]:::bank
+
+    %% Flow Connections
+    Tissue --> Iso
+    Iso --> Cells1
+
+    BankStart --> Thaw
+    Thaw --> Cells1
+
+    Cells1 --> Culture1
+    Culture1 --> Passage
+    Passage -->|Cycle| Culture1
+    Passage --> Culture2
+    Culture2 --> Cells2
+
+    Cells2 --> Exp
+    Cells2 --> Assay
+
+    Cells2 --> Freeze
+    Freeze --> BankEnd
+
+    %% Preservation Loop (Dotted line keeps it from forcing the graph too wide)
+    BankEnd -.->|Preserve| BankStart
+```
