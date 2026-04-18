@@ -1,3 +1,1 @@
-$$
-\text{QED}\ \ \Im
-$$
+cheesypants
