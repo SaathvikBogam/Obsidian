@@ -3,14 +3,14 @@
   "cssTheme": "Primary",
   "theme": "moonstone",
   "baseFontSize": 25,
-  "interfaceFontFamily": "CMU Serif",
-  "textFontFamily": "CMU Serif",
+  "interfaceFontFamily": "Palatino",
+  "textFontFamily": "Palatino",
   "enabledCssSnippets": [
     "reduce-italics",
     "mermaid",
     "centerimg"
   ],
   "nativeMenus": false,
-  "monospaceFontFamily": "CMU Typewriter Text",
+  "monospaceFontFamily": "Courier New",
   "baseFontSizeAction": true
 }
