@@ -12,5 +12,5 @@ TEM and SEM are advantageous in the fact we get very high magnification and reso
 #### Cryoelectron Microscopy
 In cryoelectron microscopy, a sample in aqueous suspension is applied to a grid, frozen in liquid nitrogen, and maintained using a special mount. The frozen sample is then placed in an electron microscope, and the very low temperature of $-196 \degree\text{C}$ prevents water evaporation, even in a vacuum, which lets us observe a hydrated state without fixation or heavy metal staining. A semicircular series of 2D projection images is recorded from a 3D specimen, and the 3D structure is reconstructed from these multiple images.
 
-Links: [[Proteomics]]
+Links: 
 Date created: Fri/17/Apr/2026
