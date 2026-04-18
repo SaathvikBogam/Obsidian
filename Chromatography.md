@@ -1,0 +1,3 @@
+Chromatography is used to seperate individual components of a mixture based on their interactions with a stationary and mobile phase. As the mobile phase moves through the stationary phase, each compound moves at a different speed based on properties like size, charge or affinity which results in seperation. The components appear as peaks on a chromatogram, identified by their retention time. The components of chromatography are:
+1. Sample: Mixture that is to be seperated
+2. Stationary phase: Fixed, i
