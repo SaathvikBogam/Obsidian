@@ -18,4 +18,7 @@ Centrifugation uses centrifugal force to seperate particles from a solution base
 #### Ultracentrifugation
 - It is a high speed seperation technique using forces upto 1 million times g and speeds exceeding 150k rpm to isolate small particles like proteins, viruses and organelles.
 - This method seperates based on size, shape and density
-- It is used in biomedical research to isolate 
+- It is used in biomedical research to isolate exosomes, lipoproteins and protein complexes, to purify viruses and to study the structure and interaction of macromolecules in their native state.
+
+Links: 
+Date created: Sat/18/Apr/2026
