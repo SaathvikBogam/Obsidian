@@ -5,4 +5,12 @@ Chromatography is used to seperate individual components of a mixture based on t
 4. Column: It contains the stationary phase for seperation, used in gas chromatography and HPLC, it is usually cylindrical, their size and material vary with chromatography type.
 5. Detector: Identifies and measures components as they seperate, showing results as peaks on a chromatogram.
 ##### Paper Chromatography
-- Uses filter pap
+- Uses filter paper as stationary phase to seperate samples into pigments, dyes and amino acids.
+- Small sample spot is placed near base of vertically held filter paper in a sealed container with solvent below.
+- Solvent moves up via capillary action and seperates the sample.
+##### Thin Layer Chromatography
+TLC uses silica gel or alumina as stationary phase. It seperates and identifies organic compounds better than paper chromatography.
+##### High Performance Liquid Chromatography
+HPLC is used to seperate, identify and quantify components by passing a liquid sample under high pressure through a colum packed with a stationary phase. Widely used in pharmaceutical, environmental and chemical industries for high resolution seperation.
+##### Ion Exchange Chromatography
+Used to seperate molecules 
