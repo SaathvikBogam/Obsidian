@@ -1,0 +1,1 @@
+Centrifugation uses centrifugal force to seperate particles from a solution based on size, density, viscosity and rotor speed. The denser components move away from the centrifuge's axis and the l
