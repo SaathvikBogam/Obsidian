@@ -1,0 +1,2 @@
+Zebrafish are used to study vertebrates since they are easy to maintain and reproduce rapidly, with a generation time of 3-4 months. The embryos are transparent and they develop outside the mother's body, so early stages of development can be observed.
+Size: 
