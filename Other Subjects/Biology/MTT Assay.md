@@ -1,0 +1,6 @@
+The MTT assay is a widely used colorimetric assay that measures cell viability or proliferation. The viability of cells is based on their ability to reduce the yellow MTT (3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide) dye to form a purple formazan product. The formazan crystals are then solubilized, and the absorbance is measured using a microplate reader. The amount of formazan product is proportional to the number of viable cells in the sample. The assay provides a quantitative measure of cell viability in response to various treatments, including drugs, toxic agents and growth factors.
+
+![[Pasted image 20260418232702.png|450]]
+
+Links: 
+Date created: Sat/18/Apr/2026
