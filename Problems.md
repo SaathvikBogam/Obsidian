@@ -1,3 +1,3 @@
 $$
-\text{QED}\ \ \square
+\text{QED}\ \ \Im
 $$
