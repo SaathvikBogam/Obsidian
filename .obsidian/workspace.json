@@ -112,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Physics and Mathematics/Delta Function Potential.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Delta Function Potential"
             }
           },
           {
@@ -154,16 +155,29 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring of '26/BIO102/Untitled.md",
+                "file": "Physics and Mathematics/Delta Function Potential.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Delta Function Potential"
+            }
+          },
+          {
+            "id": "6783e79a8048f799",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Physics and Mathematics/Delta Function Potential.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Delta Function Potential"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
