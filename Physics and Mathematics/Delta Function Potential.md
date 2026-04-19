@@ -24,7 +24,7 @@ Ae^{ \kappa x }\ ,\ \ (x\leq 0)
 $$
 where $\kappa=\frac{\sqrt{ -2mE }}{\hbar}$
 
-Now, let us consider the scattering state at $x=0$. Let us integrate the [[Schrödinger Equation]] between $-\epsilon$ and $+\epsilon$.
+Let us integrate the [[Schrödinger Equation]] between $-\epsilon$ and $+\epsilon$.
 $$
 -\frac{\hbar^{2}}{2m}\int_{-\epsilon}^{+\epsilon} \frac{ d ^{2} \psi }{ d x^{2} }    \, dx+\int_{-\epsilon}^{+\epsilon} V(x)\psi(x) \, dx =E\int_{-\epsilon}^{+\epsilon} \psi(x) \, dx  
 $$
