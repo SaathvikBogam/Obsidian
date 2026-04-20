@@ -1,0 +1,1 @@
+The principle of a fluorescence microscope is the Stokes shift $-$ difference in $\lambda$ between peak absorption and emmision (fluorescene) of a molecule. It occurs because molecules release energy as heat before emitting a photon, making emitted 

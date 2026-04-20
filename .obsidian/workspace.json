@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magnification and Resolution.md",
+                "file": "Fluorescence Microscope.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Magnification and Resolution"
+              "title": "Fluorescence Microscope"
             }
           }
         ]
@@ -200,6 +200,7 @@
   "active": "63ab5b8b0b6d449a",
   "lastOpenFiles": [
     "Microscopy.md",
+    "Fluorescence Microscope.md",
     "Magnification and Resolution.md",
     "Light Microscope.md",
     "Images/Pasted image 20260420223914.png",
@@ -229,7 +230,6 @@
     "Other Subjects/Biology/Arabidopsis thaliana.md",
     "Other Subjects/Biology/Drosophila melanogaster.md",
     "Other Subjects/Biology/Caenorhabditis elegans.md",
-    "Other Subjects/Biology/Saccharomyces cerevisiae.md",
     "Other Subjects/Environmental Sciences",
     "Images/Pasted image 20260402185250.png",
     "Images/Pasted image 20260401171953.png",
