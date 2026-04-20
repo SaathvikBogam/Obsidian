@@ -32,4 +32,9 @@ The tissues used for microscopy are commonly fixed, embedded into a solid medium
 #### Phase Contrast Microscope
 ![[Pasted image 20260420223914.png|750]]
 
-Phase contrast microscope can convert differences in refractive index into intensity differences, letting us see things of varyin
+Phase contrast microscope can convert differences in refractive index into intensity differences, letting us see things of varying refractive index.
+However, it has a handicap that results in loss of resolution and suffers from interfering halos and shading where there is a sharp change in refractive index.
+This is fixed by *Differential interference contrast*. Contrast in DIC depends on rate of change of refractive index.
+
+Links: [[Microscopy]] 
+Date created: Mon/20/Apr/2026

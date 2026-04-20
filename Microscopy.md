@@ -3,5 +3,5 @@ In 1670s, Leeuwenhook observed different living cells using a microscope. Later,
 - [[Fluorescence Microscope]]
 - [[Electron Microscope]]
 
-Links: [[Biology Techniques]]  
+Links: [[Biology Techniques]], [[Magnification and Resolution]] 
 Date created: Mon/20/Apr/2026
