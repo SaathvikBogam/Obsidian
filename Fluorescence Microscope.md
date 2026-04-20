@@ -5,4 +5,12 @@ Light passes through an excitation filter to select a wavelength that excites fl
 The components of a fluorescence microscope are:
 1. Fluorophore: Fluorescent chemical that can re-emit light upon excitation, contains several combined aromatic groups, with several $\pi$ bonds.
 2. Light Source: $\text{Xe, Hg}$, LED lamps and LASERs
-3. 
+3. Excitation Filter: A bandpass filter narrows the light's wavelength and blocking other sources
+4. Dichroic mirror: Dichromatic mirror/beam splitter, it selectively reflects or transmits light with specific wavelength
+5. Objective/Condenser
+6. Emission Filter: Bandpass filter, allows fluorescent light to pass
+7. Eyepiece and Detector
+##### Applications
+- Extra/intracellular distribution of molecules
+- Following protein movements and interactions
+- 
