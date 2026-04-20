@@ -23,4 +23,13 @@ The main components are:
 The tissues used for microscopy are commonly fixed, embedded into a solid medium and cut into thin sections. A tissue is fixed and dehydrated by soaking in alcohol solution, ending with a compatible organic solvent. For embedding, tissue is placed in paraffin wax. After hardening, it is placed on a microtome and cut into slices of 0.5 to 50 $\mu$m thin. Sections are collected and stained to observe. 
 
 ##### Applications
-- Used in visualisation in cell biology, microbiology, bacteriology
+- Used in visualisation in cell biology, microbiology, bacteriology and parisitology
+- Used to view fixed and live speciment that have been stained specially (Gram, hematoxylin and eosin staining)
+##### Limitations
+- Cannot be used to view live specimen
+- Low contrast, so specimen need to be stained, which may kill the cells
+- Staining produces unwanted details or contaminates the specimen
+#### Phase Contrast Microscope
+![[Pasted image 20260420223914.png|750]]
+
+Phase contrast microscope can convert differences in refractive index into intensity differences, letting us see things of varyin
