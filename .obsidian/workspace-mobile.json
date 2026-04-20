@@ -11,10 +11,14 @@
             "id": "359fb2d6210e51f1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Other Subjects/Biology/Biology Techniques.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Biology Techniques"
             }
           }
         ]
@@ -176,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d79c70d60e07d94",
+  "active": "359fb2d6210e51f1",
   "lastOpenFiles": [
     "Physics and Mathematics/Completeness of Wave Functions.md",
     "Physics and Mathematics/Analytic Harmonic Oscillator.md",
