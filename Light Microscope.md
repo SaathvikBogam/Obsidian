@@ -10,13 +10,17 @@ The main components are:
 4. Ocular/Projection Lens: Image formed by objective is used an object by a second lens system to form an enlarged image.
 5. Specimen: Stained/Unstained; Whole cells/tissue sections
 
-| Characteristics     | Simple Microscope | Bright Field  |
-| ------------------- | ----------------- | ------------- |
-| Number of lenses    |                   |               |
-| Condenser lens      |                   |               |
-| Light source        |                   |               |
-| Mirror type         |                   |               |
-| Magnification Level |                   |               |
-| Magnifying Power    |                   |               |
-| Adjustment          |                   |               |
-| Use case            |                   |               |
+| Characteristics     | Simple Microscope  | Bright Field Microscope |
+| ------------------- | ------------------ | ----------------------- |
+| Number of lenses    | 1                  | 3-5                     |
+| Condenser lens      | Absent             | Present                 |
+| Light source        | Natural            | Illuminator             |
+| Mirror type         | Concave reflecting | Concave and plane       |
+| Magnification Level | Only one level     | Higher levels           |
+| Magnifying Power    | 300x               | 2000x                   |
+| Adjustment          | No                 | Yes                     |
+| Use case            | Basic level        | Research level          |
+The tissues used for microscopy are commonly fixed, embedded into a solid medium and cut into thin sections. A tissue is fixed and dehydrated by soaking in alcohol solution, ending with a compatible organic solvent. For embedding, tissue is placed in paraffin wax. After hardening, it is placed on a microtome and cut into slices of 0.5 to 50 $\mu$m thin. Sections are collected and stained to observe. 
+
+##### Applications
+- Used in visualisation in cell biology, microbiology, bacteriology
