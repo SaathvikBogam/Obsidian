@@ -108,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics and Mathematics/Delta Function Potential.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Delta Function Potential"
+              "title": "Outgoing links"
             }
           },
           {
@@ -151,29 +150,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics and Mathematics/Delta Function Potential.md",
+                "file": "Spring of '26/BIO102/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Delta Function Potential"
-            }
-          },
-          {
-            "id": "6783e79a8048f799",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "Physics and Mathematics/Delta Function Potential.md"
-              },
-              "icon": "lucide-info",
-              "title": "File properties for Delta Function Potential"
+              "title": "Outline of Untitled"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -195,43 +181,43 @@
   },
   "active": "63ab5b8b0b6d449a",
   "lastOpenFiles": [
-    "Other Subjects/Biology/Xenopus laevis.md",
-    "Other Subjects/Biology/Danio rerio.md",
-    "Other Subjects/Biology/Super Resolution Microscope.md",
-    "Other Subjects/Biology/Confocal Microscope.md",
-    "Images/Pasted image 20260420231406.png",
-    "Other Subjects/Biology/Fluorescence Microscope.md",
-    "Images/Pasted image 20260420225209.png",
-    "Other Subjects/Biology/Microscopy.md",
-    "Other Subjects/Biology/Magnification and Resolution.md",
-    "Other Subjects/Biology/Light Microscope.md",
-    "Images/Pasted image 20260420223914.png",
-    "Images/Pasted image 20260420222505.png",
-    "Images/Pasted image 20260420222359.png",
-    "Images/Pasted image 20260420222144.png",
-    "Other Subjects/Biology/Biology Techniques.md",
-    "Other Subjects/Biology/Electron Microscope.md",
-    "Other Subjects/Biology/Eukaryotes.md",
-    "Physics and Mathematics/Algebraic Harmonic Oscillator.md",
-    "Physics and Mathematics/Delta Function Potential.md",
     "conflict-files-obsidian-git.md",
     "Problems.md",
+    "Other Subjects/Biology/Biology Techniques.md",
     "Other Subjects/Biology/Cell Culture.md",
     "Other Subjects/Biology/Western Blotting.md",
     "Other Subjects/Biology/Electrophoresis.md",
     "Other Subjects/Biology/Chromatography.md",
+    "Other Subjects/Biology/Electron Microscope.md",
     "Other Subjects/Biology/Proteomics.md",
+    "Other Subjects/Biology/Biology Techniques.md",
     "Other Subjects/Biology/Centrifugation.md",
     "Other Subjects/Biology/MTT Assay.md",
     "Images/Pasted image 20260418232702.png",
     "3D Cell Culture.md",
     "Other Subjects/Biology/Mus musculus.md",
+    "Other Subjects/Biology/Danio rerio.md",
     "Other Subjects/Biology/Gallus gallus.md",
+    "Other Subjects/Biology/Xenopus laevis.md",
     "Other Subjects/Biology/Arabidopsis thaliana.md",
+    "Other Subjects/Biology/Drosophila melanogaster.md",
+    "Other Subjects/Biology/Caenorhabditis elegans.md",
+    "Other Subjects/Biology/Saccharomyces cerevisiae.md",
+    "Other Subjects/Biology/Escherichia coli.md",
+    "Other Subjects/Biology/Biological Models.md",
+    "Other Subjects/Biology/Ribosome.md",
+    "Untitled.md",
+    "Physics and Mathematics/Free Quantum Particle.md",
     "Other Subjects/Environmental Sciences",
     "Images/Pasted image 20260402185250.png",
     "Images/Pasted image 20260401171953.png",
     "Images/Pasted image 20260401150613.png",
+    "Images/Pasted image 20260401145408.png",
+    "Images/Pasted image 20260331194910.png",
+    "Images/Pasted image 20260331194531.png",
+    "Images/Pasted image 20260330224647.png",
+    "Images/Pasted image 20260330214855.png",
+    "Images/Pasted image 20260330201327.png",
     "Programming",
     "Images/Ink/Drawing/~syncthing~2026.2.18 - 22.53pm.drawing.tmp",
     "Images/Ink/Drawing/2026.2.18 - 22.53pm.drawing",

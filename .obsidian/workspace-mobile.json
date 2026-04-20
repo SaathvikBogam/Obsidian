@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "30c5f6397f52958c",
+        "id": "0ade069aa3e3edb1",
         "type": "tabs",
         "children": [
           {
-            "id": "2acb520d0b23cc7f",
+            "id": "359fb2d6210e51f1",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -32,7 +32,7 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical",
+            "sortOrder": "byModifiedTime",
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
@@ -176,8 +176,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2acb520d0b23cc7f",
+  "active": "0d79c70d60e07d94",
   "lastOpenFiles": [
+    "Physics and Mathematics/Completeness of Wave Functions.md",
+    "Physics and Mathematics/Analytic Harmonic Oscillator.md",
+    "Physics and Mathematics/Algebraic Harmonic Oscillator.md",
+    "Other Subjects/Biology/Xenopus laevis.md",
     "Other Subjects/Biology/Biology Techniques.md",
     "Biology Techniques.md",
     "/Other Subjects/Biology/Biology Techniques.md",
@@ -196,7 +200,6 @@
     "Images/Pasted image 20260418232702.png",
     "/Images",
     "Other Subjects/Biology/Caenorhabditis elegans.md",
-    "Other Subjects/Biology/Xenopus laevis.md",
     "Other Subjects/Biology/Saccharomyces cerevisiae.md",
     "Other Subjects/Biology/Mus musculus.md",
     "Other Subjects/Biology/Gallus gallus.md",
@@ -204,9 +207,6 @@
     "Other Subjects/Biology/Drosophila melanogaster.md",
     "Other Subjects/Biology/Danio rerio.md",
     "Other Subjects/Biology/Biological Models.md",
-    "/Other Subjects/Biology/Caenorhabditis elegans.md",
-    "/Other Subjects/Biology/Xenopus laevis.md",
-    "/Other Subjects/Biology/Saccharomyces cerevisiae.md",
     "/Other Subjects/Biology",
     "/Other Subjects",
     "Images/Ink/Drawing/2026.2.18 - 22.53pm.drawing",
