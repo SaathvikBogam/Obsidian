@@ -1,0 +1,1 @@
+Confocal microscopy uses optical methods to obtain images from a specific focal plane. It collects a series of images through vertical depth, from which a 3D representation is generated. A laser beam reflects off a dichroic mirror

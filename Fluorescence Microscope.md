@@ -13,4 +13,6 @@ The components of a fluorescence microscope are:
 ##### Applications
 - Extra/intracellular distribution of molecules
 - Following protein movements and interactions
-- 
+
+Links: [[Microscopy]]
+Date created: Mon/20/Apr/2026
