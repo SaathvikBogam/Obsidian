@@ -1,0 +1,1 @@
+The super resolution microscope was developed to over the low resolution of fluorescence microscope (200 nm), increasing to 10 $-$ 100 nm. Super resolution microscope uses fluorescent probes that can visualise cytoskeletal structures, fine details of nuclus, chromatin
