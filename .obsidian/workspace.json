@@ -11,14 +11,10 @@
             "id": "63ab5b8b0b6d449a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Other Subjects/Biology/Nucleosome.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Nucleosome"
+              "title": "New tab"
             }
           }
         ]
@@ -183,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "63ab5b8b0b6d449a",
+  "active": "fd6f7738f6d6a126",
   "lastOpenFiles": [
     "Other Subjects/Biology/Cell Wall.md",
     "Other Subjects/Biology/Glycocalyx.md",
