@@ -1,3 +1,3 @@
 $$
-\mathbb{ABCDEFGHIJKLMOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz}
+\mathbb{why?}
 $$
