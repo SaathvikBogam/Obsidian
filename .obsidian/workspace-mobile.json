@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other Subjects/Biology/Biology Techniques.md",
+                "file": "Problems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Biology Techniques"
+              "title": "Problems"
             }
           }
         ]
@@ -160,8 +160,8 @@
         "state": {
           "type": "git-view",
           "state": {},
-          "icon": "lucide-ghost",
-          "title": "git-view"
+          "icon": "git-pull-request",
+          "title": "Source Control"
         }
       }
     ],
@@ -182,11 +182,15 @@
   },
   "active": "359fb2d6210e51f1",
   "lastOpenFiles": [
+    "/Problems.md",
+    "Other Subjects/Biology/Biology Techniques.md",
+    "/Other Subjects/Chemistry",
+    "/Other Subjects/Biology",
+    "/Other Subjects",
     "Physics and Mathematics/Completeness of Wave Functions.md",
     "Physics and Mathematics/Analytic Harmonic Oscillator.md",
     "Physics and Mathematics/Algebraic Harmonic Oscillator.md",
     "Other Subjects/Biology/Xenopus laevis.md",
-    "Other Subjects/Biology/Biology Techniques.md",
     "Biology Techniques.md",
     "/Other Subjects/Biology/Biology Techniques.md",
     "conflict-files-obsidian-git.md",
@@ -210,9 +214,6 @@
     "Other Subjects/Biology/Escherichia coli.md",
     "Other Subjects/Biology/Drosophila melanogaster.md",
     "Other Subjects/Biology/Danio rerio.md",
-    "Other Subjects/Biology/Biological Models.md",
-    "/Other Subjects/Biology",
-    "/Other Subjects",
     "Images/Ink/Drawing/2026.2.18 - 22.53pm.drawing",
     "Images/Ink/Writing/2026.2.17 - 9.04am.writing",
     "Images/Ink/Writing",
