@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5d84ae104ea44d5f",
+        "id": "e85ddab7e79a3592",
         "type": "tabs",
         "children": [
           {
-            "id": "63ab5b8b0b6d449a",
+            "id": "34c64406e8f67dcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems.md",
+                "file": "Finite Square Well.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Problems"
+              "title": "Finite Square Well"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problems.md",
+                "file": "Finite Square Well.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Problems"
+              "title": "Backlinks for Finite Square Well"
             }
           },
           {
@@ -185,10 +185,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "63ab5b8b0b6d449a",
+  "active": "34c64406e8f67dcf",
   "lastOpenFiles": [
-    "Physics and Mathematics/Tests for Divergence.md",
+    "Finite Square Well.md",
     "Problems.md",
+    "Physics and Mathematics/Tests for Divergence.md",
     "Other Subjects/Chemistry/Nucleophilic Substitution.md",
     "Other Subjects/Chemistry/Nucleophilic Substitution and Elimination.md",
     "Other Subjects/Chemistry",
@@ -213,7 +214,6 @@
     "Other Subjects/Biology/Prokaryotes.md",
     "Other Subjects/Biology/Primary Active Transport.md",
     "Other Subjects/Biology/Plasmid.md",
-    "Other Subjects/Biology/Plasma Membrane.md",
     "Other Subjects/Biology",
     "Other Subjects",
     "Images/Pasted image 20260418232702.png",
