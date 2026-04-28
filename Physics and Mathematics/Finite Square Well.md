@@ -66,10 +66,10 @@ Now, from the definitions of $k$ and $\kappa$, we get that
 $$
 \begin{gather}
 k^{2}+\kappa^{2}=\frac{2mV_{0}}{\hbar^{2}} \\
-\implies ka\tan(ka)=\sqrt{ -k^{2}a^{2}+\frac{2mV_{0}}{\hbar^{2}a^{2}} }
+\implies ka\tan(ka)=\sqrt{ -k^{2}a^{2}+\frac{2mV_{0}a^{2}}{\hbar^{2}} }
 \end{gather}
 $$
-Let $z\equiv ka$ and $z_{0}^2\equiv \frac{2mV_{0}}{\hbar^{2}}$, then
+Let $z\equiv ka$ and $z_{0}^2\equiv \frac{2mV_{0}a^{2}}{\hbar^{2}}$, then
 $$
 z\tan z=\sqrt{ z_{0}^{2}-z^{2} }
 $$
@@ -104,15 +104,15 @@ This is a transcendental equation that cannot be solved analytically, so we solv
         \node[blue, rotate=-45] at ({0.75*\R}, {0.75*\R}) [above] {$\sqrt{z_{0}^{2}-z^2}$};
 
         % Even Solutions: eta = z * tan(z)
-        \draw[samples=200, domain=0:1.45, smooth, variable=\x, red, thick] 
+        \draw[samples=200, domain=0:1.3, smooth, variable=\x, red, thick] 
             plot ({\x}, {\x*tan(\x r)});
-        \draw[samples=200, domain=3.15:4.6, smooth, variable=\x, red, thick] 
+        \draw[samples=200, domain=3.15:4, smooth, variable=\x, red, thick] 
             plot ({\x}, {\x*tan(\x r)});
 
         % Odd Solutions: eta = -z * cot(z)
-        \draw[samples=200, domain=1.63:3.1, smooth, variable=\x, orange, thick] 
+        \draw[samples=200, domain=1.63:2.66, smooth, variable=\x, orange, thick] 
             plot ({\x}, {-\x/tan(\x r)});
-        \draw[samples=200, domain=4.7:5.6, smooth, variable=\x, orange, thick] 
+        \draw[samples=200, domain=4.7:5.45, smooth, variable=\x, orange, thick] 
             plot ({\x}, {-\x/tan(\x r)});
 
         
