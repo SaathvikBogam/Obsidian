@@ -1,12 +1,8 @@
 [
   "obsidian-latex-suite",
   "obsidian-functionplot",
-  "obsidian-style-settings",
   "obsidian-icon-folder",
   "obsidian-tikzjax",
-  "ink",
   "obsidian-reset-font-size",
-  "obsidian-table-generator",
-  "obsidian-git",
-  "custom-font-loader"
+  "obsidian-git"
 ]
