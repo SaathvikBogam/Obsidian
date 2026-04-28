@@ -74,11 +74,13 @@ $$
 z\tan z=\sqrt{ z_{0}^{2}-z^{2} }
 $$
 Similarly, for the odd case i.e. $C=0$ and $B=-F$, we get 
+
 $$
 \begin{gather}
 -z\cot z=\sqrt{ z_{0}^{2}-z^{2} }
 \end{gather}
-$$This is a transcendental equation that cannot be solved analytically, so we solve it numerically or graphically.
+$$
+This is a transcendental equation that cannot be solved analytically, so we solve it numerically or graphically.
 ```tikz
 \begin{document}
 \begin{tikzpicture}[scale=1.5, >=stealth]
@@ -170,3 +172,63 @@ i\kappa[Ae^{ -i\kappa a  }-Be^{ i\kappa a } ]=k[C\cos(ka)+D\sin(ka)] \\
 i\kappa Fe^{ i\kappa a }=k[C\cos(ka)-D\sin(ka)]
 \end{gather}
 $$
+
+Solving the four equations, we get that
+$$
+\begin{gather}
+F=\frac{e^{ -2i\kappa a }A}{\cos (2ka)-\frac{i(k^{2}+\kappa^{2})}{2k\kappa} \sin(2ka)}
+\end{gather}
+$$
+Therefore, since $T=|F|^{2}/|A|^{2}$,we get
+$$
+\begin{gather}
+\frac{1}{T}=1+\frac{V_{0}}{4E(E+V_{0})}\sin ^{2}\left( \frac{2a}{\hbar}\sqrt{ 2m(E+V_{0}) } \right)
+\end{gather}
+$$
+and at $T=1$ occurs when $\sin$ argument is zero, then
+$$
+\begin{gather}
+\frac{2a}{\hbar}\sqrt{ 2m(E+V_{0}) }=n\pi \\
+\therefore E_{n}+V_{0}=\frac{n^{2}\pi^{2}\hbar^{2}}{4ma^{2}}
+\end{gather}
+$$
+The left side expression is the same energy as that of an infinite square well of width $2a$.
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.5, >=stealth]
+
+    % Coordinates for the axes
+    \def\xmax{8}
+    \def\ymax{3.5}
+    \def\tval{3} % This represents T=1 on the y-axis for proper scaling
+
+    % Draw axes with arrowheads
+    \draw[->, thick] (-0.5,0) -- (\xmax,0) node[below] {$E$};
+    \draw[->, thick] (0,-0.5) -- (0,\ymax) node[left] {$T$};
+    
+    % Draw the origin label
+    \node[below left] at (0,0) {0};
+
+    % Draw the T=1 dashed line
+    \draw[dashed, gray] (0,\tval) -- (\xmax-0.5,\tval);
+    
+    % Draw the y-axis tick mark and label '1'
+    \draw (2pt, \tval) -- (-2pt, \tval) node[left] {1};
+
+    % Draw the transmission coefficient function.
+    % The form [1 + C/(E^2) * sin^2(k*sqrt(E))]^(-1) creates multiple
+    % damped oscillations that start from 0 and approach T=1.
+    % 'deg()' is needed to use degrees inside pgfmath.
+    % We start the plot at a very small non-zero value to avoid numerical issues at E=0.
+    \draw[thick, samples=400, domain=0.02:7.5, smooth, variable=\x] 
+        plot (\x, { 
+            \tval / (1 + 1.5/(\x^2) * (sin(deg(1.8*3.14159*sqrt(\x)))^2)) 
+        });
+
+\end{tikzpicture}
+\end{document}
+```
+
+Links: [[Time Independent Schrödinger Equation]], [[Infinite Square Well]] 
+Tags: #QM #SchEq #TISE 
+Date created: Tue/28/Apr/2026

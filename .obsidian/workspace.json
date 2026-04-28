@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Finite Square Well.md",
+                "file": "Physics and Mathematics/Algebraic Harmonic Oscillator.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Finite Square Well"
+              "title": "Algebraic Harmonic Oscillator"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#TISE",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -187,9 +187,10 @@
   },
   "active": "34c64406e8f67dcf",
   "lastOpenFiles": [
-    "Finite Square Well.md",
-    "Problems.md",
+    "Physics and Mathematics/Finite Square Well.md",
+    "Physics and Mathematics/Infinite Square Well.md",
     "Physics and Mathematics/Tests for Divergence.md",
+    "Problems.md",
     "Other Subjects/Chemistry/Nucleophilic Substitution.md",
     "Other Subjects/Chemistry/Nucleophilic Substitution and Elimination.md",
     "Other Subjects/Chemistry",
@@ -213,7 +214,6 @@
     "Other Subjects/Biology/Prokaryotic Structure.md",
     "Other Subjects/Biology/Prokaryotes.md",
     "Other Subjects/Biology/Primary Active Transport.md",
-    "Other Subjects/Biology/Plasmid.md",
     "Other Subjects/Biology",
     "Other Subjects",
     "Images/Pasted image 20260418232702.png",
