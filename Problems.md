@@ -63,6 +63,6 @@ $$
 From the above equations, we get that
 $$
 \begin{gather*}
-
+C=\left( 1+\frac{\alpha}{\beta} \right) \frac{1}{2}Fe^{ i(\alpha-\beta) a},\ D=\left( 1-\frac{\alpha}{\beta} \right) \frac{1}{2}Fe^{ i(\alpha+\beta)a }
 \end{gather*}
 $$
