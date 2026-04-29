@@ -66,5 +66,37 @@ $$
 C=\left( 1+\frac{\alpha}{\beta} \right) \frac{1}{2}Fe^{ i(\alpha-\beta) a},\ D=\left( 1-\frac{\alpha}{\beta} \right) \frac{1}{2}Fe^{ i(\alpha+\beta)a }\\
 A=\frac{F}{4\alpha\beta}[(\alpha+\beta)^{2}e^{ i(\alpha-\beta)a }-(\alpha-\beta)^{2}e^{ i(3\alpha+\beta)a }]
 \\T=\left|\frac{F}{A}\right|^{2}\implies \frac{1}{T}=\frac{1}{16\alpha^{2}\beta^{2}}[(\alpha+\beta)^{4}+(\alpha-\beta)^{4}-2(\alpha^{2}-\beta^{2})^{2}\cos(2a(\alpha+\beta))]
+\\ \implies T^{-1}= 1 + \frac{V_{0}^{2}}{8E(E-V_{0})}(1-\cos(2a(\alpha+\beta)))
+\\ \boxed{\therefore T^{-1}=1+\frac{V_{0}^{2}}{4E(E-V_{0})}\sin ^{2}((\alpha+\beta)a)}
+\end{gather*}
+$$
+For $E=V_{0}$,
+$$
+\begin{gather*}
+\psi(x)=\begin{cases}
+Ae^{ i\alpha x }+Be^{ -i\alpha x },\ x\leq -a \\
+Cx+D,\ |x|<a \\
+Fe^{ i\alpha x },\ x\geq a
+\end{cases}\\
+\frac{ d \psi }{ d x } =\begin{cases}
+i\alpha[Ae^{  i\alpha x }-Be^{ -i\alpha x } ],\ x\leq -a \\
+C,\ |x|<a \\
+i\alpha Fe^{ i\alpha x },\ x\geq a
+\end{cases}
+\end{gather*}
+$$
+Applying continuity of $\psi$ and $\frac{ d \psi }{ d x }$ at $\pm a$,
+$$
+\begin{gather*}
+Ae^{ -i\alpha a }+Be^{ i\alpha a }=D-aC\\
+Fe^{ i\alpha a }=D+aC \\
+i\alpha[Ae^{ -i\alpha a }-Be^{ i\alpha a }]=C
+\\ i\alpha Fe^{ i\alpha a }=C
+\end{gather*}
+$$
+From the obtained relations, we get
+$$
+\begin{gather*}
+
 \end{gather*}
 $$
