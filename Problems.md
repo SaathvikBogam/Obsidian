@@ -3,7 +3,7 @@ $$
 V(x)=\begin{cases}
 \ 0\ ,\ |x|\geq a \\
 V_{0},\ |x|\leq a
-\end{cases}
+\end{cases}\qquad a,V_{0}>0
 \end{gather*}
 $$
 For $x\leq a$,
@@ -78,7 +78,7 @@ Ae^{ i\alpha x }+Be^{ -i\alpha x },\ x\leq -a \\
 Cx+D,\ |x|<a \\
 Fe^{ i\alpha x },\ x\geq a
 \end{cases}\\
-\frac{ d \psi }{ d x } =\begin{cases}
+\frac{ d \psi }{ d x }(x) =\begin{cases}
 i\alpha[Ae^{  i\alpha x }-Be^{ -i\alpha x } ],\ x\leq -a \\
 C,\ |x|<a \\
 i\alpha Fe^{ i\alpha x },\ x\geq a
@@ -97,6 +97,34 @@ $$
 From the obtained relations, we get
 $$
 \begin{gather*}
-
+C=i\alpha Fe^{ i\alpha a },\ D=(1-i\alpha a)Fe^{ i\alpha a }\\
+A=(1-i\alpha a)Fe^{ -2i\alpha a }\\
+T^{-1}=|A/F|^{2}\\
+\boxed{\therefore T^{-1}=1+\alpha^{2}a^{2}}
 \end{gather*}
 $$
+For $E<V_{0}$,
+$$
+\begin{gather*}
+\psi(x)=\begin{cases}
+Ae^{ i\alpha x }+Be^{ -i\alpha x },\ x\leq -a \\
+Ce^{ \beta x }+De^{ -\beta x },\ |x|<a \\
+Fe^{ i\alpha x },\ x\geq a
+\end{cases}\\
+\frac{ d \psi }{ d x } (x)=\begin{cases}
+i\alpha[Ae^{ i\alpha x }-Be^{ i\alpha x }],\ x\leq -a \\
+\beta[Ce^{ \beta x }-De^{ -\beta x }],\ |x|<a \\
+i\alpha Fe^{ i\alpha x },\ x\geq a
+\end{cases}
+\end{gather*}
+$$
+Applying continuity of $\psi$ and $\frac{ d \psi }{ d x }$ at $\pm a$,
+$$
+\begin{gather*}
+Ae^{ -i\alpha a }+Be^{ i\alpha a }=Ce^{ -\beta a }+De^{ \beta a }\\
+Ce^{ \beta a }+De^{ -\beta a }=Fe^{ i\alpha a }\\
+i\alpha[Ae^{ -i\alpha a }-Be^{ i\alpha a }]=\beta[Ce^{ -\beta a }-De^{ \beta a }]\\
+\beta[Ce^{ \beta a }-De^{ -\beta a }]=i\alpha Fe^{ i\alpha a }
+\end{gather*}
+$$
+From the derived relations, we get
