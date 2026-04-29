@@ -63,6 +63,8 @@ $$
 From the above equations, we get that
 $$
 \begin{gather*}
-C=\left( 1+\frac{\alpha}{\beta} \right) \frac{1}{2}Fe^{ i(\alpha-\beta) a},\ D=\left( 1-\frac{\alpha}{\beta} \right) \frac{1}{2}Fe^{ i(\alpha+\beta)a }
+C=\left( 1+\frac{\alpha}{\beta} \right) \frac{1}{2}Fe^{ i(\alpha-\beta) a},\ D=\left( 1-\frac{\alpha}{\beta} \right) \frac{1}{2}Fe^{ i(\alpha+\beta)a }\\
+A=\frac{F}{4\alpha\beta}[(\alpha+\beta)^{2}e^{ i(\alpha-\beta)a }-(\alpha-\beta)^{2}e^{ i(3\alpha+\beta)a }]
+\\T=\left|\frac{F}{A}\right|^{2}\implies \frac{1}{T}=\frac{1}{16\alpha^{2}\beta^{2}}[(\alpha+\beta)^{4}+(\alpha-\beta)^{4}-2(\alpha^{2}-\beta^{2})^{2}\cos(2a(\alpha+\beta))]
 \end{gather*}
 $$
