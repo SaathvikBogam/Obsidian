@@ -166,7 +166,7 @@ $$
 $$
 Therefore, we can finally write our wave function as,
 $$
-\psi_{n}(x)=\frac{1}{\sqrt{ n! }}(\hat{a}_{+} )^{n}\psi_{0}
+\psi_{n}(x)=\frac{1}{\sqrt{ n! }}(\hat{a}_{+} )^{n}\psi_{0},\ \text{where }\psi_{0}(x)= \left( \frac{m\omega}{\pi \hbar} \right)^{\frac{1}{4}} e^{ -\frac{m\omega}{2\hbar}x^{2} }
 $$
 The solutions to this case are also orthonormal i.e. 
 $$
