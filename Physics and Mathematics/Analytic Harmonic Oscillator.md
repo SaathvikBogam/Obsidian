@@ -111,22 +111,19 @@ $$
 $$
 The first few Hermite polynomial are given below:
 $$
+\begin{gather*}
 H_{0}=1
-$$
-$$
+\\
 H_{1}=2\xi
-$$
-$$
+\\
 H_{2}=4\xi^{2}-2
-$$
-$$
+\\
 H_{3}=8\xi^{3}-12\xi
-$$
-$$
+\\
 H_{4}=16\xi^{4}-48\xi^{2}+12
-$$
-$$
+\\
 H_{5}=32\xi^{5}-160\xi^{3}+120\xi
+\end{gather*}
 $$
 Links: [[Time Independent Schrödinger Equation]], [[Potentials using Harmonic Oscillator]]
 Tags: #QM #TISE #SchEq #Approx 
