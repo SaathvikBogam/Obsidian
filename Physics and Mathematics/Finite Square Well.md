@@ -104,17 +104,23 @@ This is a transcendental equation that cannot be solved analytically, so we solv
         \node[blue, rotate=-45] at ({0.75*\R}, {0.75*\R}) [above] {$\sqrt{z_{0}^{2}-z^2}$};
 
         % Even Solutions: eta = z * tan(z)
-        \draw[samples=200, domain=0:1.3, smooth, variable=\x, red, thick] 
+        \draw[samples=200, domain=0:1.314797, smooth, variable=\x, red, thick] 
             plot ({\x}, {\x*tan(\x r)});
-        \draw[samples=200, domain=3.15:4, smooth, variable=\x, red, thick] 
+        \draw[samples=200, domain=3.142:4.035, smooth, variable=\x, red, thick] 
             plot ({\x}, {\x*tan(\x r)});
 
         % Odd Solutions: eta = -z * cot(z)
-        \draw[samples=200, domain=1.63:2.66, smooth, variable=\x, orange, thick] 
+        \draw[samples=200, domain=1.5701:2.655, smooth, variable=\x, orange, thick] 
             plot ({\x}, {-\x/tan(\x r)});
-        \draw[samples=200, domain=4.7:5.45, smooth, variable=\x, orange, thick] 
+        \draw[samples=200, domain=4.7125:5.4559, smooth, variable=\x, orange, thick] 
             plot ({\x}, {-\x/tan(\x r)});
-
+% --- INTERSECTION POINTS --- 
+% Point 1 (Even) 
+\filldraw[black] (1.265, 4.005) circle (1.5pt) node[right, xshift=2pt, scale=0.6] {$$}; 
+% Point 2 (Odd) 
+\filldraw[black] (2.503, 3.373) circle (1.5pt) node[right, xshift=2pt, scale=0.6] {$$}; 
+% Point 3 (Even) 
+\filldraw[black] (3.656, 2.067) circle (1.5pt) node[right, xshift=2pt, scale=0.6] {$$};
         
     \end{scope}
 
