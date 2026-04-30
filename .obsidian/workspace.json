@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics and Mathematics/Analytic Harmonic Oscillator.md",
+                "file": "Physics and Mathematics/Free Quantum Particle.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Analytic Harmonic Oscillator"
+              "title": "Free Quantum Particle"
             }
           }
         ]
@@ -187,8 +187,8 @@
   },
   "active": "34c64406e8f67dcf",
   "lastOpenFiles": [
-    "Physics and Mathematics/Hermite Polynomials.md",
     "Physics and Mathematics/Analytic Harmonic Oscillator.md",
+    "Physics and Mathematics/Hermite Polynomials.md",
     "Physics and Mathematics/Algebraic Harmonic Oscillator.md",
     "Physics and Mathematics/Finite Square Well.md",
     "Physics and Mathematics/Ladder Operators.md",
