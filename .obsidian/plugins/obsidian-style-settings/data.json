@@ -17,5 +17,16 @@
   "pln@@pln-hdcl-6": "#88C0D0",
   "simply-colorful-theme@@h1-color@@light": "#FFFFFF",
   "simply-colorful-theme@@h1-color@@dark": "#FFFFFF",
-  "pln@@pln-vision": false
+  "pln@@pln-vision": false,
+  "typomagical-text@@alignment": "align-justified",
+  "typomagical-text@@mjx-font": "mathjax-font-default",
+  "typomagical-text@@body-ligatures": true,
+  "typomagical-colour@@theme-variant": "obsidian",
+  "typomagical-colour@@background-color-enable": false,
+  "typomagical-title@@title-weight": 700,
+  "typomagical-title@@alignment-title": "align-title-center",
+  "typomagical-title@@title-gradient": "ss-title-solid",
+  "typomagical-title@@heading-weight": 700,
+  "typomagical-title@@text-scale": "none",
+  "typomagical-text@@font-default": "Alegreya Sans"
 }

@@ -5,7 +5,7 @@ V(x)=\begin{cases}
 \ \ \ 0,\ |x|\geq a
 \end{cases}
 $$
-#### *Bound State*
+#### Bound State
 Consider the bound state condition $E<0$,
 In the region $x\leq-a$, the [[Time Independent Schrödinger Equation]] is,
 $$
@@ -93,15 +93,15 @@ This is a transcendental equation that cannot be solved analytically, so we solv
     % Grid and Axes
     \draw[very thin, gray!20] (0,0) grid (\xmax,\ymax);
     \draw[->, thick] (0,0) -- (\xmax+0.5,0) node[right] {$z$};
-    \draw[->, thick] (0,0) -- (0,\ymax+0.5) node[above] {$\eta$};
+    \draw[->, thick] (0,0) -- (0,\ymax+0.5) node[above] {$f(z)$};
     
     % Clip the curves so they don't bleed outside the grid
     \begin{scope}
         \clip (0,0) rectangle (\xmax,\ymax);
 
         % Draw the circle: z^2 + eta^2 = R^2
-        \draw[blue, thick] (0,0) ++(90:\R) arc (90:0:\R);
-        \node[blue, rotate=-45] at ({0.75*\R}, {0.75*\R}) [above] {$\sqrt{z_{0}^{2}-z^2}$};
+        \draw[yellow!90!black, thick] (0,0) ++(90:\R) arc (90:0:\R);
+        \node[yellow!90!black, rotate=-45] at ({0.75*\R}, {0.75*\R}) [above] {$\sqrt{z_{0}^{2}-z^2}$};
 
         % Even Solutions: eta = z * tan(z)
         \draw[samples=200, domain=0:1.314797, smooth, variable=\x, red, thick] 
@@ -133,7 +133,7 @@ This is a transcendental equation that cannot be solved analytically, so we solv
     \matrix [draw, fill=white, cells={anchor=west}, right] at (\xmax+0.2, \ymax/2) {
       \node [red, thick] {---}; & \node[scale=0.8] {Even: $z \tan z$}; \\
       \node [orange, thick] {---}; & \node[scale=0.8] {Odd: $-z \cot z$}; \\
-      \node [blue, thick] {---}; & \node[scale=0.8] {$\sqrt{z_{0}^2 - z^2}$}; \\
+      \node [yellow!90!black, thick] {---}; & \node[scale=0.8] {$\sqrt{z_{0}^2 - z^2}$}; \\
     };
 
     \node[below left] at (0,0) {0};
