@@ -27,16 +27,16 @@ $$
 E(x,p)=T(x,p)+V(x,p)
 $$
 $$
-E=\frac{p^{2}}{2m}+V(x)=\frac{\left( -i\hbar \frac{ \partial  }{ \partial x }  \right)^{2}}{2m}+V(x)
+\hat{E}=\frac{p^{2}}{2m}+V(x)=\frac{\left( -i\hbar \frac{ \partial  }{ \partial x }  \right)^{2}}{2m}+V(x)
 $$
 $$
-E=-\frac{\hbar^{2}}{2m}\frac{ \partial ^{2}  }{ \partial x^{2} } +V(x)
+\hat{E}=-\frac{\hbar^{2}}{2m}\frac{ \partial ^{2}  }{ \partial x^{2} } +V(x)
 $$
 Applying this operator to $\psi(x)$,
 $$
-E\psi(x)=-\frac{\hbar^{2}}{2m}\frac{ \partial ^{2} \psi(x) }{ \partial x^{2} } +V(x)\psi(x)
+\hat{E}\psi(x)=-\frac{\hbar^{2}}{2m}\frac{ \partial ^{2} \psi(x) }{ \partial x^{2} } +V(x)\psi(x)
 $$
-However, the total energy has to be a constant value, so therefore, it must be a constant.
+However, the total energy $E$ is a constant, so the output of this operation should produce a constant $E$ times the wave function.
 So therefore, our constant $A$ that we assumed is the Energy of the system.
 
 $$

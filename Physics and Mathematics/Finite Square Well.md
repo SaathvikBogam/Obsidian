@@ -5,7 +5,7 @@ V(x)=\begin{cases}
 \ \ \ 0,\ |x|\geq a
 \end{cases}
 $$
-#### Bound State
+#### **Bound State**
 Consider the bound state condition $E<0$,
 In the region $x\leq-a$, the [[Time Independent Schrödinger Equation]] is,
 $$
