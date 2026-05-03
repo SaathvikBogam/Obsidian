@@ -18,7 +18,7 @@
   "simply-colorful-theme@@h1-color@@light": "#FFFFFF",
   "simply-colorful-theme@@h1-color@@dark": "#FFFFFF",
   "pln@@pln-vision": false,
-  "typomagical-text@@alignment": "align-justified",
+  "typomagical-text@@alignment": "align-left",
   "typomagical-text@@mjx-font": "mathjax-font-default",
   "typomagical-text@@body-ligatures": true,
   "typomagical-colour@@theme-variant": "obsidian",
@@ -28,5 +28,7 @@
   "typomagical-title@@title-gradient": "ss-title-solid",
   "typomagical-title@@heading-weight": 700,
   "typomagical-title@@text-scale": "none",
-  "typomagical-text@@font-default": "Alegreya Sans"
+  "typomagical-text@@font-default": "Alegreya Sans",
+  "typomagical-title@@heading-ligatures": true,
+  "typomagical-text@@link-font": "ss-links-sc"
 }

@@ -3,7 +3,7 @@ $$
 -\frac{\hbar^{2}}{2m}\frac{ \partial ^{2} \psi }{ \partial x^{2} } -\alpha\delta(x)\psi(x)=E\psi(x)
 $$
 We see that it gives both a bound state ($E<0$) and a scattering state ($E>0$).
-#### <span style="color:rgb(5, 180, 200)">Bound State</span>
+### Bound State
 $$
 \frac{ \partial ^{2} \psi }{ \partial x^{2} } =-\frac{2mE}{\hbar^{2}}\psi
 $$
@@ -63,7 +63,7 @@ $$
 \psi(x)=\frac{\sqrt{ m\alpha }}{\hbar}e^{ -m\alpha |x|/\hbar^{2} }\quad ;\quad E=-\frac{m\alpha^{2}}{2\hbar^{2}}
 $$
 
-#### <span style="color:rgb(200, 12, 12)">Scattering State</span>
+### Scattering State 
 Now let us look at the scattering state $E>0$. For $x<0,$
 $$
 \frac{ d ^{2} \psi }{ d x^{2} } =-\frac{2mE}{\hbar^{2}}\psi
