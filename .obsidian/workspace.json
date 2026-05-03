@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Problems.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5012664794922
+    "width": 224.5012664794922,
+    "collapsed": true
   },
   "right": {
     "id": "72712dd8df6e169c",
@@ -164,8 +165,19 @@
               "icon": "lucide-list",
               "title": "Outline of Problems"
             }
+          },
+          {
+            "id": "1cf246c63d4e1c4d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
