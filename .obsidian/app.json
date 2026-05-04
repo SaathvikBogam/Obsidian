@@ -8,5 +8,6 @@
   "userIgnoreFilters": [
     "Templates/",
     "Images/"
-  ]
+  ],
+  "autoPairMarkdown": false
 }
