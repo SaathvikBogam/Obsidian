@@ -8,4 +8,12 @@ $$
 \langle Q \rangle =\langle Q \rangle ^{*}\implies \braket{ \Psi | \hat{Q}\Psi } = \braket{ \hat{Q}\Psi | \Psi } 
 \end{gather*}
 $$
-Any operator t
+Any operator that obeys this for all $\Psi$ is called a Hermitian operator. If the operator is not hermitian, then $\hat{Q}^{\dagger}$ is an operator such that
+$$
+\braket{ \hat{Q}^{\dagger}\Psi | \Psi } =\braket{ \Psi | \hat{Q}\Psi }
+$$
+The operator $\hat{Q}^{\dagger}$ is called the hermitian conjugate/adjoint of $\hat{Q}$. Therefore, a hermitian operator is simply an operator such that
+$$
+\hat{Q}^{\dagger}=\hat{Q}
+$$
+From this, we learn that any observable $Q()$ in Quantum Mechanics is represented by a hermitian operator
