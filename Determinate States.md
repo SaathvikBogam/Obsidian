@@ -8,7 +8,7 @@ $$
 \hat{Q}\Psi=q\Psi
 \end{gather*}
 $$
-This is an eigenvalue equation for the linear operator $\hat{Q}$ with eigenvalue $q$. We conclude that the determinate states of an observable $Q$ are eigenfunctions of the hermitian operator $\hat{Q}$. The collection of all eigenvalues of an operator is called its spectrum. If two or more linearly independent eigenfunctions share the same eigenvalues, then spectrum is degenerate.
+This is an eigenvalue equation for the linear operator $\hat{Q}$ with eigenvalue $q$. We conclude that the determinate states of an observable $Q$ are eigenfunctions of the hermitian operator $\hat{Q}$. 
 
 Links: [[Observables]]
 Tags: #QM #Math #Fundamental #Operators 
