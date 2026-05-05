@@ -16,4 +16,12 @@ The operator $\hat{Q}^{\dagger}$ is called the hermitian conjugate/adjoint of $\
 $$
 \hat{Q}^{\dagger}=\hat{Q}
 $$
-From this, we learn that any observable $Q()$ in Quantum Mechanics is represented by a hermitian operator
+From this, we learn that any observable $Q(x,p)$ in Quantum Mechanics is represented by a hermitian operator $\hat{Q}(\hat{x},\hat{p})$ and the expectation value of $Q$ is given by
+$$
+\langle Q \rangle =\braket{ \Psi | \hat{Q}\Psi }
+$$
+
+
+Links: [[Hilbert Space]]
+Tags: #QM #Fundamental #Operators #Math 
+Date created: Tue/05/May/2026

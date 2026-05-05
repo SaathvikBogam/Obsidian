@@ -1,0 +1,1 @@
+A determinate state is the state of a particle where repeated measurement of an observable $Q$ gives the same values. An example of this would be the stationary states of the Hamiltonian. The 
