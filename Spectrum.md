@@ -2,6 +2,21 @@ The collection of all eigenvalues of an operator is called its spectrum. If two 
 ### Discrete Spectra
 The spectrum consists of only real values, i.e. the eigenvalues are real. This can be proved by considering the eigenvalue equation.
 $$
-beg
-\hat{Q}f=qf\implies \braket{ f | \hat{Q}f } = \braket{ \hat{Q}f | f } \ (\because\hat{Q}\text{ is hermitian})
+\begin{gather*}
+\hat{Q}f=qf
+\\\braket{ f | \hat{Q}f } = \braket{ \hat{Q}f | f } \ (\because\hat{Q}\text{ is hermitian})\\
+\implies \braket{ f | qf } =\braket{ qf | f }\\
+\implies q\braket{ f | f } =q^{*}\braket{ f | f } \\
+\implies q=q^{*}\implies q\ \text{is real}
+\end{gather*}
 $$
+Eigenfunctions of distinct eigenvalues are also orthogonal.
+$$
+\begin{gather*}
+\hat{Q}f=qf\quad \hat{Q}g=q'g\\
+\text{Since }\hat{Q}\ \text{is hermitian, }\braket{ \hat{Q}f | g } =\braket{ f | \hat{Q}g } \\
+\implies \braket{ qf | g } =\braket{ f | q'g } \\
+\implies q\braket{ f | g } =q'\braket{ f | g } 
+\end{gather*}
+$$
+Since $q$ and $q'$ are distinc
