@@ -19,4 +19,7 @@ $$
 \implies q\braket{ f | g } =q'\braket{ f | g } 
 \end{gather*}
 $$
-Since $q$ and $q'$ are distinc
+Since $q$ and $q'$ are distinct eigenvalues, they cannot be equal. The only way for the equality to be correct is if $\braket{ f | g }=0$. Therfore, the eigenfunctions of distinct eigenvalues are orthogonal.
+The eigenfunctions are also complete i.e. they span the Hilbert space $\mathcal{H}$.
+#### Continuous Spectra
+If the spectrum of an observable is continuous, then the eigenfunctions may not be normalizable and the inner products may not exist too. But we can still reco
