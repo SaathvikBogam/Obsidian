@@ -19,15 +19,27 @@ $$
 \implies q\braket{ f | g } =q'\braket{ f | g } 
 \end{gather*}
 $$
-Since $q$ and $q'$ are distinct eigenvalues, they cannot be equal. The only way for the equality to be correct is if $\braket{ f | g }=0$. Therfore, the eigenfunctions of distinct eigenvalues are orthogonal. They can be orthonormalized by Gram-Schmidt Orthonormalization if needed.
-
-The eigenfunctions are also complete i.e. they span the Hilbert space $\mathcal{H}$.
+Since $q$ and $q'$ are distinct eigenvalues, they cannot be equal. The only way for the equality to be correct is if $\braket{ f | g }=0$. Therfore, the eigenfunctions of distinct eigenvalues are orthogonal. They can be orthonormalized by Gram-Schmidt Orthonormalization if needed, then
+$$
+\braket{ f_{m} | f_{n} } =\delta_{m,n}
+$$The eigenfunctions are also complete i.e. they span the Hilbert space $\mathcal{H}$.
 #### Continuous Spectra
 If the spectrum of an observable is continuous, then the eigenfunctions may not be normalizable and the inner products may not exist too. But we can still recover orthonormality, reality and completeness. Consider the the momentum operator $\hat{p}$. The eigenvalue equation is,
 $$
 \begin{gather*}
-\hat{p}f=pf\implies -i\hbar \partial_{x} f=pf\\
-\partial_{x} f=\frac{ip}{\hbar}f\implies f(x)=Ae^{ \frac{ip}{\hbar}x }
+\hat{p}f_{p}=pf_{p}\implies -i\hbar \partial_{x} f_{p}=pf_{p}\\
+\partial_{x} f_{p}=\frac{ip}{\hbar}f_{p}\implies f_{p}(x)=Ae^{ \frac{ip}{\hbar}x }
 \end{gather*}
 $$
-Restricting ourselves to real eigenvalues $p$, 
+Restricting ourselves to real eigenvalues $p$, let us take the inner product of two eigenfunctions with distinct eigenvalues,
+$$
+\begin{gather*}
+\braket{ f_{p'} | f_{p} } =\int_{-\infty}^{+\infty} |A|^{2}e^{ ix(p-p')/\hbar } \, dx =2\pi \hbar |A|^{2}\delta(p-p')\\
+\text{Let }A= \frac{1}{\sqrt{ 2\pi \hbar }}\implies f_{p}(x)=\frac{1}{\sqrt{ 2\pi \hbar }}e^{ ipx/\hbar }\\
+\text{then }\braket{ f_{p'} | f_{p} }=\delta(p-p') 
+\end{gather*}
+$$
+Thus, we have recovered a pseudo-orthonormality by restricting ourselves to real eigenvalues. The eigenfunctions are now also complete, any function $f(x)$ in the Hilbert space $\mathcal{H}$ can be written in the form
+$$
+
+$$
