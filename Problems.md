@@ -1,3 +1,10 @@
+Given that $D_{1}(x)=D_{2}(x)$ if 
 $$
-\sigma^{2}_{A}\sigma_{B}^{2}\geq \left( \frac{1}{2i}\langle [\hat{A},\hat{B}] \rangle  \right)^{2}
+\int_{-\infty}^{+\infty} f(x)D_{1}(x) \, dx =\int_{-\infty}^{+\infty} f(x)D_{2}(x) \, dx
+$$
+(a)
+$$
+\begin{gather*}
+D_{1}(x)
+\end{gather*}
 $$
