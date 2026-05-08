@@ -6,3 +6,7 @@ If the spectrum is continuous with real eigenvalues $q(z)$ and associated (Dirac
 $$
 |c(z)|^{2}dz,\ \text{where }c(z)=\braket{ f_{z} | \Psi }
 $$
+
+Links: [[Wave Function]], [[Schrödinger Equation]]
+Tags: #QM #Fundamental #Operators #Statistics 
+Date created: Tue/05/May/2026
