@@ -1,23 +1,13 @@
+The set of all square integrable functions on $(a,b)$ is an $L^{2}(a,b)$ space or a Hilbert space $\mathcal{H}(a,b)$. Let $f,g\in \mathcal{H}(a,b)$. Then, consider their sum $f+g$.
+Consider its square integral on $({a,b})$.
 $$
-E=mc^{2}\ \text{is kinda wrong}
+\int_{a}^{b} |f+g|^{2} \, dx
 $$
-The correct formula is,
+Since $f\in \mathcal{H}(a,b)$ the square integral on $(a,b)$ converges,
 $$
-E^{2}=p^{2}c^{2}+m^{2}c^{4}
+\int_{a}^{b} |f|^{2} \, dx=\int_{a}^{b} |(f+g)-g|^{2} \, dx
 $$
-I mean, seems like I can type on with little problem. Uhh, this is a bit too steep. I'd like to be a bit lower.
+By the Cauchy--Schwarz inequality,
 $$
-D_{t}\langle Q \rangle =\frac{1}{i\hbar}\langle [\hat{H},\hat{Q}] \rangle +\langle \partial_{t} \hat{Q} \rangle
-$$
-$$
-\frac{ d  }{ d t }\langle Q \rangle =\frac{1}{i\hbar}\langle [\hat{H},\hat{Q}] \rangle +\left\langle  \frac{ \partial \hat{Q} }{ \partial t }   \right\rangle
-$$
-$$
-\dot{\langle Q \rangle }=\frac{1}{i\hbar}\langle [\hat{H},\hat{Q}] \rangle +\langle \hat{Q}_{t} \rangle
-$$
-$$
-\partial_{t}^{\mathbf{r}}\partial_{t}^{\mathbf{r}}f
-$$
-$$
-\dot{x},\nabla^{2}\psi
+\int_{a}^{b} |(f+g)| \, dx 
 $$
