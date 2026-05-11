@@ -23,12 +23,13 @@
   "typomagical-text@@body-ligatures": true,
   "typomagical-colour@@theme-variant": "obsidian",
   "typomagical-colour@@background-color-enable": false,
-  "typomagical-title@@title-weight": 700,
+  "typomagical-title@@title-weight": 600,
   "typomagical-title@@alignment-title": "align-title-center",
   "typomagical-title@@title-gradient": "ss-title-solid",
   "typomagical-title@@heading-weight": 700,
   "typomagical-title@@text-scale": "none",
   "typomagical-text@@font-default": "Alegreya Sans",
   "typomagical-title@@heading-ligatures": true,
-  "typomagical-text@@link-font": "ss-links-sc"
+  "typomagical-text@@link-font": "ss-links-sc",
+  "typomagical-title@@font-title": "Amiri"
 }
