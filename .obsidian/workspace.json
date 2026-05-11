@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spectrum.md",
+                "file": "Physics and Mathematics/Spectrum.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Momentum Space.md",
+                "file": "Physics and Mathematics/Momentum Space.md",
                 "mode": "source",
                 "source": false
               },
@@ -208,16 +208,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db3cd4c30ae315b9",
+  "active": "fd6f7738f6d6a126",
   "lastOpenFiles": [
-    "Spectrum.md",
+    "Physics and Mathematics/Spectrum.md",
     "Problems.md",
-    "Momentum Space.md",
-    "Generalized Statistical Interpretation.md",
+    "Physics and Mathematics/Momentum Space.md",
+    "Physics and Mathematics/Generalized Statistical Interpretation.md",
     "Physics and Mathematics/Uncertainty Principle.md",
-    "Determinate States.md",
-    "Observables.md",
-    "Hilbert Space.md",
+    "Physics and Mathematics/Determinate States.md",
+    "Physics and Mathematics/Observables.md",
+    "Physics and Mathematics/Hilbert Space.md",
     "Physics and Mathematics/Dirac Delta Function.md",
     "Physics and Mathematics/Delta Function Potential.md",
     "Physics and Mathematics/Algebraic Harmonic Oscillator.md",
