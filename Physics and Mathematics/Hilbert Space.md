@@ -20,6 +20,6 @@ $$
 $$
 Note that the Hilbert Space $\mathcal{H}$ is infinite dimensional, and hence normal rules that work on a finite dimensional space may not work here, so caution is advised.
 
-Links: [[Schrödinger Equation]] 
+Links: [[Wave Function]] 
 Tags: #QM #Fundamental #Math 
 Date created: Tue/05/May/2026
