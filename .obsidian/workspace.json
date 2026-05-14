@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics and Mathematics/Algebraic Harmonic Oscillator.md",
-                "mode": "preview",
+                "file": "Problems.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Algebraic Harmonic Oscillator"
+              "title": "Problems"
             }
           }
         ]
@@ -196,6 +196,7 @@
   },
   "active": "db3cd4c30ae315b9",
   "lastOpenFiles": [
+    "Physics and Mathematics/Algebraic Harmonic Oscillator.md",
     "Physics and Mathematics/Determinate States.md",
     "Physics and Mathematics/Schrödinger Equation.md",
     "Physics and Mathematics/Hilbert Space.md",
@@ -207,7 +208,6 @@
     "Physics and Mathematics/Observables.md",
     "Physics and Mathematics/Dirac Delta Function.md",
     "Physics and Mathematics/Delta Function Potential.md",
-    "Physics and Mathematics/Algebraic Harmonic Oscillator.md",
     "Physics and Mathematics/Bound and Scattering States.md",
     "Physics and Mathematics/Wave Function.md",
     "Physics and Mathematics/Basis.md",
