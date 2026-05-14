@@ -11,10 +11,14 @@
             "id": "db3cd4c30ae315b9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Physics and Mathematics/Algebraic Harmonic Oscillator.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Algebraic Harmonic Oscillator"
             }
           }
         ]
@@ -192,6 +196,7 @@
   },
   "active": "db3cd4c30ae315b9",
   "lastOpenFiles": [
+    "Physics and Mathematics/Determinate States.md",
     "Physics and Mathematics/Schrödinger Equation.md",
     "Physics and Mathematics/Hilbert Space.md",
     "Physics and Mathematics/Momentum Space.md",
@@ -199,7 +204,6 @@
     "Problems.md",
     "Physics and Mathematics/Generalized Statistical Interpretation.md",
     "Physics and Mathematics/Uncertainty Principle.md",
-    "Physics and Mathematics/Determinate States.md",
     "Physics and Mathematics/Observables.md",
     "Physics and Mathematics/Dirac Delta Function.md",
     "Physics and Mathematics/Delta Function Potential.md",
