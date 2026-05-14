@@ -15,4 +15,5 @@ Consider the square integral of $\alpha f$ where $\alpha$ is an arbitrary comple
 $$
 \int_{a}^{b} |\alpha f|^{2} \, dx =|\alpha|^{2}\int_{a}^{b} |f|^{2} \, dx
 $$
-The integral converges. Therefore, 
+The integral converges. Therefore, if $f\in \mathcal{H}(a,b)$, then $\alpha f\in \mathcal{H}(a,b)$ where $\alpha \in \mathbb{C}$.\\\\
+Since $\int_{a}^{b} |0|^{2} \, dx$ is convergent, there exists $0\in \mathcal{H}(a,b)$ such that $f+0=f$, where $f\in \mathcal{H}(a,b)$.
