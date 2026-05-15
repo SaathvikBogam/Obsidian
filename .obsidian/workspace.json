@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics and Mathematics/Hilbert Space.md",
-                "mode": "preview",
+                "file": "Problems.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hilbert Space"
+              "title": "Problems"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5069465637207
+    "width": 259.5069465637207,
+    "collapsed": true
   },
   "right": {
     "id": "72712dd8df6e169c",
@@ -193,8 +194,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd6f7738f6d6a126",
+  "active": "db3cd4c30ae315b9",
   "lastOpenFiles": [
+    "Physics and Mathematics/Hilbert Space.md",
     "Physics and Mathematics/Observables.md",
     "Physics and Mathematics/Determinate States.md",
     "Problems.md",
@@ -212,7 +214,6 @@
     "libinput-config/README.md",
     "Physics and Mathematics/Algebraic Harmonic Oscillator.md",
     "Physics and Mathematics/Schrödinger Equation.md",
-    "Physics and Mathematics/Hilbert Space.md",
     "Physics and Mathematics/Momentum Space.md",
     "Physics and Mathematics/Spectrum.md",
     "Physics and Mathematics/Generalized Statistical Interpretation.md",

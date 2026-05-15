@@ -28,8 +28,10 @@
   "typomagical-title@@title-gradient": "ss-title-solid",
   "typomagical-title@@heading-weight": 700,
   "typomagical-title@@text-scale": "none",
-  "typomagical-text@@font-default": "Alegreya Sans",
+  "typomagical-text@@font-default": "Spectral",
   "typomagical-title@@heading-ligatures": true,
   "typomagical-text@@link-font": "ss-links-sc",
-  "typomagical-title@@font-title": "Amiri"
+  "typomagical-title@@font-title": "Bitter",
+  "typomagical-title@@line-height-headings": 1.2,
+  "typomagical-images@@ss-image-caption": true
 }
