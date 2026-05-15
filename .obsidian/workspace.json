@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5069465637207,
-    "collapsed": true
+    "width": 259.5069465637207
   },
   "right": {
     "id": "72712dd8df6e169c",
@@ -196,8 +195,18 @@
   },
   "active": "db3cd4c30ae315b9",
   "lastOpenFiles": [
-    "hi.pub",
-    "hi",
+    "libinput-config/build/meson-logs/install-log.txt",
+    "libinput-config/build/libinput-config.so",
+    "libinput-config/build/libinput-config.so.p/src_main.c.o",
+    "libinput-config/build/libinput-config.so.p/src_main.c.o.d",
+    "libinput-config/build/libinput-config.so.p/src_hooks_gestures.c.o",
+    "libinput-config/build/libinput-config.so.p/src_hooks_pointer.c.o",
+    "libinput-config/build/libinput-config.so.p/src_override.c.o",
+    "libinput-config/build/libinput-config.so.p/src_hooks_pointer.c.o.d",
+    "libinput-config/build/libinput-config.so.p/src_override.c.o.d",
+    "libinput-config/build/libinput-config.so.p/src_hooks_gestures.c.o.d",
+    "libinput-config/build/libinput-config.so.p/src_hooks_init.c.o",
+    "libinput-config/README.md",
     "Physics and Mathematics/Algebraic Harmonic Oscillator.md",
     "Physics and Mathematics/Determinate States.md",
     "Physics and Mathematics/Schrödinger Equation.md",
@@ -222,7 +231,6 @@
     "Physics and Mathematics/Finite Square Well.md",
     "Physics and Mathematics/Young's Double Slit Experiment.md",
     "Physics and Mathematics/Waves.md",
-    "Physics and Mathematics/Analytic Harmonic Oscillator.md",
     "Images/Pasted image 20260217183813.png",
     "Images/Pasted image 20260217190109.png",
     "Images/Pasted image 20260418232702.png",
@@ -233,16 +241,7 @@
     "Images/Pasted image 20260216220948.png",
     "Images/Pasted image 20260217161657.png",
     "Images/Pasted image 20260217172217.png",
-    "Other Subjects/Chemistry",
-    "Other Subjects/Biology",
-    "Other Subjects",
-    "Other Subjects/Environmental Sciences",
-    "Programming",
-    "Images/Ink/Drawing/~syncthing~2026.2.18 - 22.53pm.drawing.tmp",
-    "Images/Ink/Drawing/2026.2.18 - 22.53pm.drawing",
-    "Physics and Mathematics/~syncthing~Young's Double Slit Experiment.md.tmp",
     "Untitled.canvas",
-    "Templates",
     "Spring of '26/Untitled.canvas"
   ]
 }
