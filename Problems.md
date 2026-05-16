@@ -46,4 +46,5 @@ I_{3}=\frac{a}{\pi}x^{2}\sin\left( \frac{\pi x}{a} \right)-\frac{2a^{2}}{\pi^{2}
 $$
 $$
 I_{3}=\frac{a^{3}}{\pi}\sin \pi-\frac{2a^{3}}{\pi^{2}}\cos \pi-\frac{2a^{3}}{\pi^{3}}\sin \pi-\frac{a^{3}}{3\pi}\sin{3}\pi 
+
 $$
