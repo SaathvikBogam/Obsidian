@@ -45,5 +45,5 @@ $$
 I_{3}=\frac{a}{\pi}x^{2}\sin\left( \frac{\pi x}{a} \right)-\frac{2a^{2}}{\pi^{2}}x\cos\left( \frac{\pi x}{a} \right)-\frac{2a^{3}}{\pi^{3}}\sin\left( \frac{\pi x}{a} \right)-\frac{a}{3\pi}x^{2}\sin\left( \frac{3\pi x}{a} \right)-\frac{2a^{2}}{9\pi^{2}}\cos\left( \frac{3\pi x}{a} \right)-\frac{2a^{3}}{27\pi^{3}}\sin\left( \frac{3\pi x}{a} \right)\bigg|_{0}^{a}
 $$
 $$
-I_{3}=\frac{a^{3}}{\pi}\sin \pi-\frac{2a^{3}}{\pi^{2}}\cos \pi-\frac{2a^{3}}{\pi^{3}}\sin \pi-\frac{a^{3}}{3\pi}\sin{3}\pi
+I_{3}=\frac{a^{3}}{\pi}\sin \pi-\frac{2a^{3}}{\pi^{2}}\cos \pi-\frac{2a^{3}}{\pi^{3}}\sin \pi-\frac{a^{3}}{3\pi}\sin{3}\pi 
 $$
