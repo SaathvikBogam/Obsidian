@@ -31,7 +31,7 @@
   "typomagical-text@@font-default": "Spectral",
   "typomagical-title@@heading-ligatures": true,
   "typomagical-text@@link-font": "ss-links-sc",
-  "typomagical-title@@font-title": "Bitter",
+  "typomagical-title@@font-title": "Playfair Display",
   "typomagical-title@@line-height-headings": 1.2,
   "typomagical-images@@ss-image-caption": true
 }
