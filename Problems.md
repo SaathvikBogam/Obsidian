@@ -1,69 +1,21 @@
-\subsection*{Problem 3.32}
-A anti/skew--hermitian operator is an operator that is equal to the negative of its hermitian, i.e.
+\subsection*{Problem 3.33}
+Given that an observable $A$ has normalized eigenstates $\psi_{1},\psi_{2}$ corresponding to eigenvalues $a_{1},a_{2}$ and observable $B$ has normalized eigenstates $\phi_{1},\phi_{2}$ corresponding to eigenvalues $b_{1},b_{2}$. Then eigenstates of $A$ and $B$ are related by:
 $$
-\hat{Q}=-\hat{Q}^{\dagger}
-$$
-(a) The expectation value of the skew--hermitian operator is,
-$$
-\langle Q \rangle =\braket{ \psi | \hat{Q}\psi } =\braket{ -\hat{Q}\psi | \psi }\implies \braket{ \psi | \hat{Q}\psi } =-\braket{ \psi | \hat{Q}\psi }^{*}  
+\psi_{1}=\frac{{3\phi_{1}+4\phi_{2}}}{5}\qquad \psi_{2}=\frac{{4\phi_{1}-3\phi_{2}}}{5}
 $$
 $$
-\mathrm{Re}\langle Q \rangle =-\mathrm{Re}\langle Q \rangle \implies \mathrm{Re}\langle Q \rangle =0
+\implies \phi_{1}= \frac{{3\psi_{1}+4\psi_{2}}}{5}\qquad \phi_{2}=\frac{{4\psi_{1}-3\psi_{2}}}{5}
 $$
-Therefore, since it has no real part, the expectation value $\langle Q \rangle$ must be purely imaginary.\\\\
-(b) The eigenvalue equation for a skew--hermitian operator is:
+Let us describe the state vector as following,
 $$
-\hat{Q}\ket{Q} =q\ket{Q} 
-$$
-
-Multiply both sides with the bra $\bra{Q}$,
-$$
-\bra{Q} \hat{Q}\ket{Q} =q\braket{ Q | Q } \implies \braket{ Q | \hat{Q}Q } =q\braket{ Q | Q } 
-$$
-Exploiting the skew--hermiticity of $\hat{Q}$,
-$$
--\braket{ \hat{Q}Q | Q } =q\braket{ Q | Q } \implies -\braket{ Q | \hat{Q}Q } ^{*}=q\braket{ Q | Q } 
+\ket{\mathcal{S}}=\alpha_{1}\ket{\psi_{1}} +\alpha_{2}\ket{\psi_{2}} =\beta_{1}\ket{\phi_{1}} +\beta_{2}\ket{\phi_{2}}
 $$
 $$
--q^{*}\braket{ Q | Q } =q\braket{ Q | Q }\implies q=-q^{*}
+\text{where }\alpha_{1}^{2}+\alpha_{2}^{2}=\beta_{1}^{2}+\beta_{2}^{2}=1
 $$
-Therefore, the eigenvalues $q$ of a skew--hermitian operator $\hat{Q}$ are imaginary.\\\\
-(c) Consider two distinct eigenvalues $q,q'$ with eigenkets $\ket{Q},\ket{Q'}$
+From the given relations, we can derive that
 $$
-\hat{Q}\ket{Q} =q\ket{Q} \qquad \hat{Q}\ket{Q'} =q'\ket{Q'}
+\beta_{1}=\frac{{3\alpha_{1}+4\alpha_{2}}}{5}\qquad \beta_{2}=\frac{{4\alpha_{1}-3\alpha_{2}}}{5}
 $$
-Multiplying the first with $\bra{Q'}$ and the second with $\bra{Q}$,
-$$
-\braket{ Q' | \hat{Q}Q } =q\braket{ Q' | Q } \qquad \braket{ Q | \hat{Q}Q' }=q'\braket{ Q | Q' }
-$$
-By the skew--hermiticity of $\hat{Q}$ on the first equation,
-$$
--\braket{ \hat{Q}Q '| Q } =q\braket{ Q' | Q } \implies -\braket{ Q | \hat{Q}Q' } ^{*}=q\braket{ Q' | Q }
-$$
-$$
-(q')^{*}\braket{ Q' | Q } =q\braket{ Q' | Q }
-$$
-Since $q$ and $q'$ are distinct eigenvalues, the above equation is valid if and only if $\braket{ Q' | Q }=0$. Therefore, the eigenvectors of distinct eigenvalues of a skew--hermitian operator $\hat{Q}$ are orthogonal.\\\\
-(d) Consider two hermitian operators $\hat{P}$ and $\hat{R}$. Their commutator is
-$$
-[\hat{P},\hat{R}]=\hat{P}\hat{R}-\hat{R}\hat{P}
-$$
-Consider the hermitian adjoint of the commutator,
-$$
-[\hat{P},\hat{R}]^{\dagger}=(\hat{P}\hat{R}-\hat{R}\hat{P})^{\dagger}=\hat{R}^{\dagger}\hat{P}^{\dagger}-\hat{P}^{\dagger}\hat{R}^{\dagger}
-$$
-But $\hat{P}$ and $\hat{R}$ are hermitian, so
-$$
-[\hat{P},\hat{R}]^{\dagger}=\hat{R}\hat{P}-\hat{P}\hat{R}=-[\hat{P},\hat{R}]
-$$
-Therefore, the commutator of two hermitian operators is skew--hermitian.\\
-Now consider two skew--hermitian operators $\hat{A},\hat{B}$ with commutator $[\hat{A},\hat{B}]$. The hermitian adjoint of the commutator is
-$$
-[\hat{A},\hat{B}]^{\dagger}=(\hat{A}\hat{B}-\hat{B}\hat{A})^{\dagger}=\hat{B}^{\dagger}\hat{A}^{\dagger}-\hat{A}^{\dagger}\hat{B}^{\dagger}
-$$
-Since $\hat{A},\hat{B}$ are skew--hermitian,
-$$
-[\hat{A},\hat{B}]=(-\hat{B})(-\hat{A})-(-\hat{A})(-\hat{B})=\hat{B}\hat{A}-\hat{A}\hat{B}=-[\hat{A},\hat{B}]
-$$
-Therefore, the commutator of two skew--hermitian operators is skew--hermitian.\\\\
-(e) 
+And by using $\beta_{1}^{2}+\beta_{2}^{2}=1$, we get that
+(a) If $A$ is measured as $a_{1}$, then the state collapses to $\ket{\psi_{1}}$. The state of the system immediatly after this measurement will still be $\ket{\psi _1}$.
